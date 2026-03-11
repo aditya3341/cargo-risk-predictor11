@@ -1,0 +1,2705 @@
+source,destination,weather,congestion,distance,cargo,risk
+Mumbai,Mumbai,1,1,2144,fragile,33
+Mumbai,Chennai,3,5,10849,normal,75
+Mumbai,Kolkata,2,2,7148,normal,41
+Mumbai,Delhi,2,3,7078,normal,49
+Mumbai,Visakhapatnam,2,1,5399,fragile,43
+Mumbai,Singapore,1,2,5989,fragile,41
+Mumbai,Shanghai,5,5,10864,fragile,105
+Mumbai,Shenzhen,5,4,9393,normal,87
+Mumbai,Guangzhou,5,4,3617,fragile,97
+Mumbai,Hong Kong,3,3,1040,fragile,69
+Mumbai,Tokyo,5,1,6937,fragile,73
+Mumbai,Osaka,3,5,3965,fragile,85
+Mumbai,Busan,2,3,5531,normal,49
+Mumbai,Bangkok,4,5,9499,normal,85
+Mumbai,Jakarta,1,5,8547,normal,55
+Mumbai,Dubai,3,5,3133,normal,75
+Mumbai,Doha,4,3,10364,fragile,79
+Mumbai,Riyadh,1,2,4764,normal,31
+Mumbai,Jeddah,2,2,3379,normal,41
+Mumbai,Istanbul,1,4,9006,normal,47
+Mumbai,Hamburg,2,2,11562,fragile,51
+Mumbai,Rotterdam,5,5,3381,normal,95
+Mumbai,Antwerp,4,4,1306,fragile,87
+Mumbai,London,2,3,9214,fragile,59
+Mumbai,Le Havre,2,3,5969,fragile,59
+Mumbai,Barcelona,4,5,8201,fragile,95
+Mumbai,Genoa,2,4,4255,normal,57
+Mumbai,Athens,4,3,8896,fragile,79
+Mumbai,New York,2,2,7121,normal,41
+Mumbai,Los Angeles,2,2,4748,normal,41
+Mumbai,San Francisco,5,5,7520,fragile,105
+Mumbai,Seattle,5,4,7231,normal,87
+Mumbai,Houston,2,5,6417,fragile,75
+Mumbai,Miami,2,2,1178,normal,41
+Mumbai,Vancouver,5,4,10325,fragile,97
+Mumbai,Toronto,5,2,6845,fragile,81
+Mumbai,Montreal,5,3,3556,fragile,89
+Mumbai,Sydney,1,4,10450,normal,47
+Mumbai,Melbourne,2,4,5761,normal,57
+Mumbai,Auckland,5,3,10191,fragile,89
+Mumbai,Cape Town,1,5,3548,fragile,65
+Mumbai,Durban,5,5,5497,normal,95
+Mumbai,Lagos,4,1,8639,fragile,63
+Mumbai,Nairobi,1,4,9243,normal,47
+Mumbai,Santos,4,3,1249,normal,69
+Mumbai,Rio de Janeiro,1,2,1321,normal,31
+Mumbai,Buenos Aires,4,5,2397,normal,85
+Mumbai,Lima,3,2,10980,fragile,61
+Mumbai,Panama City,5,2,2701,normal,71
+Mumbai,Manila,4,5,5597,fragile,95
+Mumbai,Ho Chi Minh City,1,5,4897,fragile,65
+Mumbai,Kuala Lumpur,5,5,10033,normal,95
+Chennai,Mumbai,3,3,3424,normal,59
+Chennai,Chennai,3,3,4147,fragile,69
+Chennai,Kolkata,5,3,6306,normal,79
+Chennai,Delhi,1,1,9871,normal,23
+Chennai,Visakhapatnam,5,2,6235,fragile,81
+Chennai,Singapore,3,1,7962,fragile,53
+Chennai,Shanghai,4,4,5594,normal,77
+Chennai,Shenzhen,3,3,2538,normal,59
+Chennai,Guangzhou,3,1,10779,normal,43
+Chennai,Hong Kong,5,5,8166,normal,95
+Chennai,Tokyo,1,3,6767,fragile,49
+Chennai,Osaka,5,1,8238,fragile,73
+Chennai,Busan,1,3,1527,normal,39
+Chennai,Bangkok,4,2,9183,fragile,71
+Chennai,Jakarta,5,2,11007,normal,71
+Chennai,Dubai,1,3,3637,fragile,49
+Chennai,Doha,5,5,8547,fragile,105
+Chennai,Riyadh,5,5,7076,fragile,105
+Chennai,Jeddah,4,2,9430,normal,61
+Chennai,Istanbul,2,4,11773,normal,57
+Chennai,Hamburg,5,1,11315,normal,63
+Chennai,Rotterdam,2,3,6772,fragile,59
+Chennai,Antwerp,3,3,11930,fragile,69
+Chennai,London,4,3,7935,fragile,79
+Chennai,Le Havre,4,3,2189,normal,69
+Chennai,Barcelona,2,4,9300,normal,57
+Chennai,Genoa,5,3,5623,fragile,89
+Chennai,Athens,2,4,6305,fragile,67
+Chennai,New York,4,5,9296,fragile,95
+Chennai,Los Angeles,1,4,6645,normal,47
+Chennai,San Francisco,1,3,9920,fragile,49
+Chennai,Seattle,2,2,6975,normal,41
+Chennai,Houston,1,5,10335,normal,55
+Chennai,Miami,1,3,5458,normal,39
+Chennai,Vancouver,2,2,5202,normal,41
+Chennai,Toronto,3,3,9718,normal,59
+Chennai,Montreal,2,3,7513,normal,49
+Chennai,Sydney,3,3,3700,fragile,69
+Chennai,Melbourne,2,2,6607,fragile,51
+Chennai,Auckland,2,3,3563,fragile,59
+Chennai,Cape Town,1,2,2728,normal,31
+Chennai,Durban,2,2,7203,fragile,51
+Chennai,Lagos,4,3,1949,fragile,79
+Chennai,Nairobi,2,5,2806,normal,65
+Chennai,Santos,1,4,11004,fragile,57
+Chennai,Rio de Janeiro,1,5,7204,normal,55
+Chennai,Buenos Aires,1,1,9059,normal,23
+Chennai,Lima,1,4,7609,normal,47
+Chennai,Panama City,4,1,8237,normal,53
+Chennai,Manila,5,4,7423,normal,87
+Chennai,Ho Chi Minh City,5,2,7091,fragile,81
+Chennai,Kuala Lumpur,2,1,10127,fragile,43
+Kolkata,Mumbai,1,5,1161,fragile,65
+Kolkata,Chennai,3,1,4902,fragile,53
+Kolkata,Kolkata,4,4,4521,fragile,87
+Kolkata,Delhi,3,5,1466,normal,75
+Kolkata,Visakhapatnam,4,1,7254,fragile,63
+Kolkata,Singapore,2,5,1455,fragile,75
+Kolkata,Shanghai,3,1,6248,fragile,53
+Kolkata,Shenzhen,1,2,10395,normal,31
+Kolkata,Guangzhou,3,4,3703,fragile,77
+Kolkata,Hong Kong,5,5,2481,fragile,105
+Kolkata,Tokyo,2,2,4298,normal,41
+Kolkata,Osaka,2,5,3216,normal,65
+Kolkata,Busan,4,3,1593,fragile,79
+Kolkata,Bangkok,2,2,6970,fragile,51
+Kolkata,Jakarta,2,1,11902,normal,33
+Kolkata,Dubai,1,1,5431,fragile,33
+Kolkata,Doha,4,5,11484,fragile,95
+Kolkata,Riyadh,2,4,11801,fragile,67
+Kolkata,Jeddah,5,1,3349,normal,63
+Kolkata,Istanbul,4,2,4633,fragile,71
+Kolkata,Hamburg,3,3,7321,fragile,69
+Kolkata,Rotterdam,4,2,2803,fragile,71
+Kolkata,Antwerp,2,2,1240,normal,41
+Kolkata,London,1,1,5836,fragile,33
+Kolkata,Le Havre,3,3,1615,normal,59
+Kolkata,Barcelona,4,3,1410,fragile,79
+Kolkata,Genoa,3,3,2560,normal,59
+Kolkata,Athens,5,3,5387,fragile,89
+Kolkata,New York,4,1,2863,normal,53
+Kolkata,Los Angeles,2,1,8434,normal,33
+Kolkata,San Francisco,2,3,8548,fragile,59
+Kolkata,Seattle,1,1,4839,fragile,33
+Kolkata,Houston,4,2,2743,fragile,71
+Kolkata,Miami,3,3,8964,normal,59
+Kolkata,Vancouver,4,5,9696,normal,85
+Kolkata,Toronto,3,3,1178,normal,59
+Kolkata,Montreal,4,1,5291,fragile,63
+Kolkata,Sydney,3,2,11612,fragile,61
+Kolkata,Melbourne,2,1,3917,normal,33
+Kolkata,Auckland,5,3,1080,fragile,89
+Kolkata,Cape Town,5,3,5167,normal,79
+Kolkata,Durban,3,4,2842,normal,67
+Kolkata,Lagos,5,5,8724,fragile,105
+Kolkata,Nairobi,1,3,2136,fragile,49
+Kolkata,Santos,1,4,2150,normal,47
+Kolkata,Rio de Janeiro,1,2,1738,normal,31
+Kolkata,Buenos Aires,2,2,5438,fragile,51
+Kolkata,Lima,5,5,4717,fragile,105
+Kolkata,Panama City,4,2,5242,normal,61
+Kolkata,Manila,5,2,6551,fragile,81
+Kolkata,Ho Chi Minh City,1,1,9686,normal,23
+Kolkata,Kuala Lumpur,4,3,11421,normal,69
+Delhi,Mumbai,2,4,6440,normal,57
+Delhi,Chennai,5,5,10939,fragile,105
+Delhi,Kolkata,3,5,9211,fragile,85
+Delhi,Delhi,3,5,6297,fragile,85
+Delhi,Visakhapatnam,1,4,3747,fragile,57
+Delhi,Singapore,4,3,10811,fragile,79
+Delhi,Shanghai,1,2,11486,fragile,41
+Delhi,Shenzhen,3,2,10765,fragile,61
+Delhi,Guangzhou,2,2,2152,fragile,51
+Delhi,Hong Kong,4,4,2872,normal,77
+Delhi,Tokyo,5,5,11545,normal,95
+Delhi,Osaka,4,1,6148,normal,53
+Delhi,Busan,3,5,5474,normal,75
+Delhi,Bangkok,4,5,2634,normal,85
+Delhi,Jakarta,3,2,1286,normal,51
+Delhi,Dubai,3,3,7683,fragile,69
+Delhi,Doha,4,3,11417,fragile,79
+Delhi,Riyadh,2,3,2506,normal,49
+Delhi,Jeddah,4,2,7222,fragile,71
+Delhi,Istanbul,4,3,11746,normal,69
+Delhi,Hamburg,3,2,6906,normal,51
+Delhi,Rotterdam,4,1,2597,normal,53
+Delhi,Antwerp,4,2,4290,fragile,71
+Delhi,London,5,2,3686,fragile,81
+Delhi,Le Havre,5,2,1327,fragile,81
+Delhi,Barcelona,2,2,11600,fragile,51
+Delhi,Genoa,2,2,2259,normal,41
+Delhi,Athens,5,4,6286,fragile,97
+Delhi,New York,2,1,9766,fragile,43
+Delhi,Los Angeles,4,2,6547,normal,61
+Delhi,San Francisco,4,1,3823,normal,53
+Delhi,Seattle,2,3,3230,fragile,59
+Delhi,Houston,4,1,5057,normal,53
+Delhi,Miami,4,3,10552,normal,69
+Delhi,Vancouver,2,4,4447,fragile,67
+Delhi,Toronto,2,5,5585,fragile,75
+Delhi,Montreal,5,2,10030,fragile,81
+Delhi,Sydney,4,2,11606,normal,61
+Delhi,Melbourne,3,4,8477,fragile,77
+Delhi,Auckland,1,4,6124,fragile,57
+Delhi,Cape Town,4,1,11266,normal,53
+Delhi,Durban,3,4,10740,normal,67
+Delhi,Lagos,5,5,3104,fragile,105
+Delhi,Nairobi,2,4,5893,normal,57
+Delhi,Santos,4,2,6219,normal,61
+Delhi,Rio de Janeiro,2,4,2379,normal,57
+Delhi,Buenos Aires,1,4,1207,normal,47
+Delhi,Lima,1,4,9684,fragile,57
+Delhi,Panama City,3,3,10154,normal,59
+Delhi,Manila,4,5,7078,normal,85
+Delhi,Ho Chi Minh City,5,2,1947,normal,71
+Delhi,Kuala Lumpur,4,4,3684,normal,77
+Visakhapatnam,Mumbai,3,4,7228,fragile,77
+Visakhapatnam,Chennai,4,3,1894,normal,69
+Visakhapatnam,Kolkata,1,2,8978,fragile,41
+Visakhapatnam,Delhi,3,5,5452,normal,75
+Visakhapatnam,Visakhapatnam,4,4,7812,fragile,87
+Visakhapatnam,Singapore,2,2,3288,fragile,51
+Visakhapatnam,Shanghai,1,2,10703,fragile,41
+Visakhapatnam,Shenzhen,2,2,5716,normal,41
+Visakhapatnam,Guangzhou,5,5,4208,fragile,105
+Visakhapatnam,Hong Kong,5,2,10015,fragile,81
+Visakhapatnam,Tokyo,3,3,9602,fragile,69
+Visakhapatnam,Osaka,4,5,8612,normal,85
+Visakhapatnam,Busan,2,2,5024,fragile,51
+Visakhapatnam,Bangkok,1,1,4624,normal,23
+Visakhapatnam,Jakarta,3,4,7361,normal,67
+Visakhapatnam,Dubai,3,4,11350,fragile,77
+Visakhapatnam,Doha,4,1,5926,fragile,63
+Visakhapatnam,Riyadh,1,4,11980,normal,47
+Visakhapatnam,Jeddah,5,3,7273,normal,79
+Visakhapatnam,Istanbul,1,5,10136,normal,55
+Visakhapatnam,Hamburg,2,5,1794,fragile,75
+Visakhapatnam,Rotterdam,2,4,3563,fragile,67
+Visakhapatnam,Antwerp,5,2,4738,fragile,81
+Visakhapatnam,London,3,2,11530,normal,51
+Visakhapatnam,Le Havre,5,2,2648,fragile,81
+Visakhapatnam,Barcelona,1,4,1047,normal,47
+Visakhapatnam,Genoa,5,2,10484,fragile,81
+Visakhapatnam,Athens,4,1,5670,fragile,63
+Visakhapatnam,New York,1,1,4188,normal,23
+Visakhapatnam,Los Angeles,2,3,6796,fragile,59
+Visakhapatnam,San Francisco,2,4,9529,normal,57
+Visakhapatnam,Seattle,3,5,9858,fragile,85
+Visakhapatnam,Houston,1,1,7436,fragile,33
+Visakhapatnam,Miami,2,2,10890,normal,41
+Visakhapatnam,Vancouver,1,3,10633,normal,39
+Visakhapatnam,Toronto,4,4,1722,fragile,87
+Visakhapatnam,Montreal,1,1,6321,fragile,33
+Visakhapatnam,Sydney,2,2,4715,normal,41
+Visakhapatnam,Melbourne,5,4,10504,fragile,97
+Visakhapatnam,Auckland,2,5,10079,normal,65
+Visakhapatnam,Cape Town,2,3,5468,normal,49
+Visakhapatnam,Durban,3,5,8013,normal,75
+Visakhapatnam,Lagos,2,2,11019,fragile,51
+Visakhapatnam,Nairobi,3,5,8044,fragile,85
+Visakhapatnam,Santos,1,4,7763,normal,47
+Visakhapatnam,Rio de Janeiro,1,5,9320,normal,55
+Visakhapatnam,Buenos Aires,2,5,10167,fragile,75
+Visakhapatnam,Lima,5,5,8946,normal,95
+Visakhapatnam,Panama City,2,1,10766,normal,33
+Visakhapatnam,Manila,4,3,5465,normal,69
+Visakhapatnam,Ho Chi Minh City,1,5,8353,fragile,65
+Visakhapatnam,Kuala Lumpur,3,4,7541,fragile,77
+Singapore,Mumbai,4,4,9920,fragile,87
+Singapore,Chennai,5,1,4889,fragile,73
+Singapore,Kolkata,5,1,3867,normal,63
+Singapore,Delhi,2,4,2766,fragile,67
+Singapore,Visakhapatnam,3,3,7661,fragile,69
+Singapore,Singapore,1,4,7132,fragile,57
+Singapore,Shanghai,4,3,5940,normal,69
+Singapore,Shenzhen,2,4,2906,fragile,67
+Singapore,Guangzhou,1,2,9584,normal,31
+Singapore,Hong Kong,2,1,8677,normal,33
+Singapore,Tokyo,4,1,8391,normal,53
+Singapore,Osaka,4,1,8780,normal,53
+Singapore,Busan,5,4,9022,fragile,97
+Singapore,Bangkok,3,4,1114,fragile,77
+Singapore,Jakarta,1,1,5091,fragile,33
+Singapore,Dubai,4,4,1974,normal,77
+Singapore,Doha,3,3,6832,fragile,69
+Singapore,Riyadh,4,2,9734,normal,61
+Singapore,Jeddah,3,4,11673,fragile,77
+Singapore,Istanbul,3,5,6017,normal,75
+Singapore,Hamburg,3,1,4989,fragile,53
+Singapore,Rotterdam,4,3,9508,normal,69
+Singapore,Antwerp,1,1,8958,fragile,33
+Singapore,London,5,2,5473,normal,71
+Singapore,Le Havre,2,5,7238,normal,65
+Singapore,Barcelona,5,3,1234,normal,79
+Singapore,Genoa,1,4,11441,fragile,57
+Singapore,Athens,5,4,8673,normal,87
+Singapore,New York,2,3,1909,fragile,59
+Singapore,Los Angeles,1,5,9152,fragile,65
+Singapore,San Francisco,5,1,11724,fragile,73
+Singapore,Seattle,2,2,11389,normal,41
+Singapore,Houston,2,4,4826,normal,57
+Singapore,Miami,1,2,2853,fragile,41
+Singapore,Vancouver,5,2,10462,fragile,81
+Singapore,Toronto,1,4,3148,normal,47
+Singapore,Montreal,2,1,7168,normal,33
+Singapore,Sydney,5,4,1789,fragile,97
+Singapore,Melbourne,1,2,3601,fragile,41
+Singapore,Auckland,1,2,7735,normal,31
+Singapore,Cape Town,3,5,8820,normal,75
+Singapore,Durban,4,4,6691,fragile,87
+Singapore,Lagos,2,5,1633,normal,65
+Singapore,Nairobi,2,4,6991,fragile,67
+Singapore,Santos,5,3,11147,normal,79
+Singapore,Rio de Janeiro,3,5,7562,normal,75
+Singapore,Buenos Aires,3,5,6923,fragile,85
+Singapore,Lima,4,5,10035,fragile,95
+Singapore,Panama City,5,2,8393,fragile,81
+Singapore,Manila,1,3,9578,fragile,49
+Singapore,Ho Chi Minh City,2,4,6623,normal,57
+Singapore,Kuala Lumpur,4,2,1831,fragile,71
+Shanghai,Mumbai,3,4,7758,normal,67
+Shanghai,Chennai,3,1,4017,normal,43
+Shanghai,Kolkata,1,1,7519,fragile,33
+Shanghai,Delhi,2,2,4363,normal,41
+Shanghai,Visakhapatnam,3,4,10093,fragile,77
+Shanghai,Singapore,1,4,8703,normal,47
+Shanghai,Shanghai,2,1,4017,fragile,43
+Shanghai,Shenzhen,2,5,1106,normal,65
+Shanghai,Guangzhou,1,1,7749,fragile,33
+Shanghai,Hong Kong,3,4,5292,fragile,77
+Shanghai,Tokyo,3,5,5534,normal,75
+Shanghai,Osaka,4,1,7709,fragile,63
+Shanghai,Busan,4,5,1054,fragile,95
+Shanghai,Bangkok,1,4,5239,normal,47
+Shanghai,Jakarta,2,3,1296,normal,49
+Shanghai,Dubai,1,3,2722,fragile,49
+Shanghai,Doha,5,4,9507,normal,87
+Shanghai,Riyadh,1,3,9140,normal,39
+Shanghai,Jeddah,3,2,10927,normal,51
+Shanghai,Istanbul,3,5,3337,fragile,85
+Shanghai,Hamburg,1,2,5086,fragile,41
+Shanghai,Rotterdam,3,2,11525,normal,51
+Shanghai,Antwerp,5,2,9553,fragile,81
+Shanghai,London,1,4,2541,normal,47
+Shanghai,Le Havre,2,4,2894,normal,57
+Shanghai,Barcelona,1,3,11687,fragile,49
+Shanghai,Genoa,3,3,3239,normal,59
+Shanghai,Athens,5,2,8266,normal,71
+Shanghai,New York,4,3,5487,normal,69
+Shanghai,Los Angeles,5,3,8525,normal,79
+Shanghai,San Francisco,2,5,2001,normal,65
+Shanghai,Seattle,5,4,11414,normal,87
+Shanghai,Houston,2,4,7210,normal,57
+Shanghai,Miami,1,4,9041,fragile,57
+Shanghai,Vancouver,4,3,9695,fragile,79
+Shanghai,Toronto,5,3,8507,normal,79
+Shanghai,Montreal,3,1,4625,normal,43
+Shanghai,Sydney,5,2,9594,normal,71
+Shanghai,Melbourne,3,5,6507,normal,75
+Shanghai,Auckland,4,1,3406,normal,53
+Shanghai,Cape Town,1,3,4456,normal,39
+Shanghai,Durban,3,2,5148,normal,51
+Shanghai,Lagos,5,2,1389,fragile,81
+Shanghai,Nairobi,3,1,9842,normal,43
+Shanghai,Santos,2,5,4266,fragile,75
+Shanghai,Rio de Janeiro,1,3,10997,fragile,49
+Shanghai,Buenos Aires,3,3,2270,fragile,69
+Shanghai,Lima,2,5,3709,fragile,75
+Shanghai,Panama City,3,1,4085,normal,43
+Shanghai,Manila,5,1,11845,fragile,73
+Shanghai,Ho Chi Minh City,1,4,1716,normal,47
+Shanghai,Kuala Lumpur,4,3,9370,fragile,79
+Shenzhen,Mumbai,5,1,4934,fragile,73
+Shenzhen,Chennai,4,1,11495,fragile,63
+Shenzhen,Kolkata,2,4,10380,normal,57
+Shenzhen,Delhi,3,3,7784,fragile,69
+Shenzhen,Visakhapatnam,1,2,9152,fragile,41
+Shenzhen,Singapore,2,4,11199,fragile,67
+Shenzhen,Shanghai,5,3,2271,normal,79
+Shenzhen,Shenzhen,3,5,11406,normal,75
+Shenzhen,Guangzhou,2,1,9540,normal,33
+Shenzhen,Hong Kong,2,2,1753,normal,41
+Shenzhen,Tokyo,2,3,1156,normal,49
+Shenzhen,Osaka,4,5,9053,fragile,95
+Shenzhen,Busan,1,2,3469,fragile,41
+Shenzhen,Bangkok,2,1,5759,normal,33
+Shenzhen,Jakarta,5,2,5842,fragile,81
+Shenzhen,Dubai,4,3,3175,normal,69
+Shenzhen,Doha,4,1,1798,fragile,63
+Shenzhen,Riyadh,5,5,2376,normal,95
+Shenzhen,Jeddah,3,4,8940,normal,67
+Shenzhen,Istanbul,3,5,8968,normal,75
+Shenzhen,Hamburg,2,5,1617,fragile,75
+Shenzhen,Rotterdam,4,3,5854,fragile,79
+Shenzhen,Antwerp,3,2,11792,fragile,61
+Shenzhen,London,5,3,10352,normal,79
+Shenzhen,Le Havre,5,5,2161,normal,95
+Shenzhen,Barcelona,4,2,8217,normal,61
+Shenzhen,Genoa,5,5,3210,normal,95
+Shenzhen,Athens,2,5,1078,fragile,75
+Shenzhen,New York,5,3,4814,fragile,89
+Shenzhen,Los Angeles,5,1,4846,normal,63
+Shenzhen,San Francisco,3,3,8974,normal,59
+Shenzhen,Seattle,1,2,11663,normal,31
+Shenzhen,Houston,1,2,9668,fragile,41
+Shenzhen,Miami,5,2,6027,normal,71
+Shenzhen,Vancouver,1,3,3313,normal,39
+Shenzhen,Toronto,5,3,9901,fragile,89
+Shenzhen,Montreal,3,2,11362,normal,51
+Shenzhen,Sydney,4,1,11873,fragile,63
+Shenzhen,Melbourne,4,3,8187,normal,69
+Shenzhen,Auckland,2,4,4362,normal,57
+Shenzhen,Cape Town,1,3,6302,fragile,49
+Shenzhen,Durban,5,2,3880,fragile,81
+Shenzhen,Lagos,2,1,10172,fragile,43
+Shenzhen,Nairobi,1,2,10876,normal,31
+Shenzhen,Santos,4,3,4144,fragile,79
+Shenzhen,Rio de Janeiro,4,3,3125,normal,69
+Shenzhen,Buenos Aires,2,2,4984,normal,41
+Shenzhen,Lima,3,3,8052,normal,59
+Shenzhen,Panama City,2,2,6727,normal,41
+Shenzhen,Manila,1,2,1037,fragile,41
+Shenzhen,Ho Chi Minh City,2,2,1441,normal,41
+Shenzhen,Kuala Lumpur,1,4,11986,normal,47
+Guangzhou,Mumbai,1,2,7935,normal,31
+Guangzhou,Chennai,3,5,1561,normal,75
+Guangzhou,Kolkata,1,5,6099,fragile,65
+Guangzhou,Delhi,2,4,1594,normal,57
+Guangzhou,Visakhapatnam,4,5,11432,fragile,95
+Guangzhou,Singapore,4,1,6459,normal,53
+Guangzhou,Shanghai,2,1,10712,normal,33
+Guangzhou,Shenzhen,5,1,8048,normal,63
+Guangzhou,Guangzhou,3,3,4214,normal,59
+Guangzhou,Hong Kong,2,5,4115,normal,65
+Guangzhou,Tokyo,3,3,4416,normal,59
+Guangzhou,Osaka,5,5,2612,fragile,105
+Guangzhou,Busan,2,5,5426,normal,65
+Guangzhou,Bangkok,3,5,6979,fragile,85
+Guangzhou,Jakarta,3,4,3559,normal,67
+Guangzhou,Dubai,1,1,3313,fragile,33
+Guangzhou,Doha,4,5,5675,fragile,95
+Guangzhou,Riyadh,2,1,8527,fragile,43
+Guangzhou,Jeddah,1,3,11460,fragile,49
+Guangzhou,Istanbul,2,5,2575,fragile,75
+Guangzhou,Hamburg,5,3,3839,normal,79
+Guangzhou,Rotterdam,1,4,8504,normal,47
+Guangzhou,Antwerp,4,3,7544,fragile,79
+Guangzhou,London,2,5,3915,fragile,75
+Guangzhou,Le Havre,5,2,8074,normal,71
+Guangzhou,Barcelona,2,4,1129,fragile,67
+Guangzhou,Genoa,4,2,11769,normal,61
+Guangzhou,Athens,2,5,5995,fragile,75
+Guangzhou,New York,4,1,2820,normal,53
+Guangzhou,Los Angeles,2,1,6292,fragile,43
+Guangzhou,San Francisco,3,4,9645,fragile,77
+Guangzhou,Seattle,5,5,6066,normal,95
+Guangzhou,Houston,2,1,10654,normal,33
+Guangzhou,Miami,3,2,11626,fragile,61
+Guangzhou,Vancouver,1,3,8031,normal,39
+Guangzhou,Toronto,3,4,6638,fragile,77
+Guangzhou,Montreal,1,3,10080,fragile,49
+Guangzhou,Sydney,3,2,1645,normal,51
+Guangzhou,Melbourne,3,3,8077,fragile,69
+Guangzhou,Auckland,4,1,2836,fragile,63
+Guangzhou,Cape Town,4,5,9591,fragile,95
+Guangzhou,Durban,4,4,10160,fragile,87
+Guangzhou,Lagos,5,3,8335,normal,79
+Guangzhou,Nairobi,4,1,6129,normal,53
+Guangzhou,Santos,2,4,11559,normal,57
+Guangzhou,Rio de Janeiro,4,4,4937,normal,77
+Guangzhou,Buenos Aires,1,1,2199,fragile,33
+Guangzhou,Lima,3,3,8066,normal,59
+Guangzhou,Panama City,5,2,5080,fragile,81
+Guangzhou,Manila,4,4,7004,normal,77
+Guangzhou,Ho Chi Minh City,1,2,8089,normal,31
+Guangzhou,Kuala Lumpur,2,4,2208,normal,57
+Hong Kong,Mumbai,3,5,6664,normal,75
+Hong Kong,Chennai,3,3,1358,fragile,69
+Hong Kong,Kolkata,5,2,5450,fragile,81
+Hong Kong,Delhi,2,1,3897,fragile,43
+Hong Kong,Visakhapatnam,1,1,5574,fragile,33
+Hong Kong,Singapore,5,5,1751,fragile,105
+Hong Kong,Shanghai,5,2,10279,normal,71
+Hong Kong,Shenzhen,4,5,5958,fragile,95
+Hong Kong,Guangzhou,2,3,1974,fragile,59
+Hong Kong,Hong Kong,2,3,9808,normal,49
+Hong Kong,Tokyo,2,1,5849,fragile,43
+Hong Kong,Osaka,4,3,3824,fragile,79
+Hong Kong,Busan,2,2,1287,fragile,51
+Hong Kong,Bangkok,2,1,10923,normal,33
+Hong Kong,Jakarta,2,1,7450,fragile,43
+Hong Kong,Dubai,1,2,10287,normal,31
+Hong Kong,Doha,1,3,5831,normal,39
+Hong Kong,Riyadh,5,2,4224,normal,71
+Hong Kong,Jeddah,3,4,4584,normal,67
+Hong Kong,Istanbul,1,4,1464,normal,47
+Hong Kong,Hamburg,2,5,9160,normal,65
+Hong Kong,Rotterdam,2,3,3504,fragile,59
+Hong Kong,Antwerp,1,3,5203,fragile,49
+Hong Kong,London,3,5,2095,normal,75
+Hong Kong,Le Havre,1,3,6114,normal,39
+Hong Kong,Barcelona,3,2,7583,normal,51
+Hong Kong,Genoa,1,1,7617,fragile,33
+Hong Kong,Athens,5,1,5387,fragile,73
+Hong Kong,New York,1,4,10696,fragile,57
+Hong Kong,Los Angeles,3,1,5045,normal,43
+Hong Kong,San Francisco,3,5,11944,fragile,85
+Hong Kong,Seattle,2,5,10902,fragile,75
+Hong Kong,Houston,5,1,2533,normal,63
+Hong Kong,Miami,1,5,2737,fragile,65
+Hong Kong,Vancouver,3,1,4787,normal,43
+Hong Kong,Toronto,5,5,2347,fragile,105
+Hong Kong,Montreal,3,2,8657,normal,51
+Hong Kong,Sydney,1,2,7321,fragile,41
+Hong Kong,Melbourne,4,5,11853,normal,85
+Hong Kong,Auckland,3,2,9603,normal,51
+Hong Kong,Cape Town,4,3,3380,normal,69
+Hong Kong,Durban,2,4,7280,fragile,67
+Hong Kong,Lagos,2,5,9402,fragile,75
+Hong Kong,Nairobi,1,2,6033,normal,31
+Hong Kong,Santos,4,3,8434,normal,69
+Hong Kong,Rio de Janeiro,4,3,10699,normal,69
+Hong Kong,Buenos Aires,5,1,1699,normal,63
+Hong Kong,Lima,1,5,7180,normal,55
+Hong Kong,Panama City,4,1,7854,normal,53
+Hong Kong,Manila,5,1,10840,normal,63
+Hong Kong,Ho Chi Minh City,5,1,6482,normal,63
+Hong Kong,Kuala Lumpur,3,3,2424,normal,59
+Tokyo,Mumbai,2,2,3543,fragile,51
+Tokyo,Chennai,5,1,7039,fragile,73
+Tokyo,Kolkata,2,1,8403,normal,33
+Tokyo,Delhi,2,5,6171,normal,65
+Tokyo,Visakhapatnam,1,5,10594,fragile,65
+Tokyo,Singapore,2,2,3372,normal,41
+Tokyo,Shanghai,2,4,11614,fragile,67
+Tokyo,Shenzhen,4,1,6010,normal,53
+Tokyo,Guangzhou,5,4,9820,fragile,97
+Tokyo,Hong Kong,1,5,5553,fragile,65
+Tokyo,Tokyo,3,2,6487,normal,51
+Tokyo,Osaka,2,4,11598,fragile,67
+Tokyo,Busan,5,4,7496,fragile,97
+Tokyo,Bangkok,5,2,8553,normal,71
+Tokyo,Jakarta,3,1,11856,fragile,53
+Tokyo,Dubai,4,2,5658,fragile,71
+Tokyo,Doha,4,3,2127,normal,69
+Tokyo,Riyadh,2,3,11305,fragile,59
+Tokyo,Jeddah,1,5,7058,fragile,65
+Tokyo,Istanbul,1,4,6544,fragile,57
+Tokyo,Hamburg,1,3,4155,normal,39
+Tokyo,Rotterdam,1,3,2131,fragile,49
+Tokyo,Antwerp,5,3,10483,normal,79
+Tokyo,London,2,2,7430,normal,41
+Tokyo,Le Havre,1,3,3957,fragile,49
+Tokyo,Barcelona,2,2,10825,fragile,51
+Tokyo,Genoa,5,5,9718,fragile,105
+Tokyo,Athens,5,1,9375,fragile,73
+Tokyo,New York,2,2,1749,fragile,51
+Tokyo,Los Angeles,4,5,2677,fragile,95
+Tokyo,San Francisco,4,1,1719,normal,53
+Tokyo,Seattle,2,4,11831,normal,57
+Tokyo,Houston,5,3,5621,fragile,89
+Tokyo,Miami,2,5,1548,normal,65
+Tokyo,Vancouver,5,4,9653,fragile,97
+Tokyo,Toronto,4,2,10853,normal,61
+Tokyo,Montreal,5,5,4810,fragile,105
+Tokyo,Sydney,2,2,8153,fragile,51
+Tokyo,Melbourne,5,1,9409,fragile,73
+Tokyo,Auckland,3,3,3162,normal,59
+Tokyo,Cape Town,4,2,1706,fragile,71
+Tokyo,Durban,2,5,7101,normal,65
+Tokyo,Lagos,2,5,8066,fragile,75
+Tokyo,Nairobi,3,5,8887,normal,75
+Tokyo,Santos,1,1,11030,normal,23
+Tokyo,Rio de Janeiro,5,3,5558,fragile,89
+Tokyo,Buenos Aires,2,4,2670,normal,57
+Tokyo,Lima,5,4,10541,fragile,97
+Tokyo,Panama City,1,4,8845,fragile,57
+Tokyo,Manila,3,1,3710,normal,43
+Tokyo,Ho Chi Minh City,2,5,7538,normal,65
+Tokyo,Kuala Lumpur,5,2,8932,normal,71
+Osaka,Mumbai,2,2,3708,normal,41
+Osaka,Chennai,4,4,1835,fragile,87
+Osaka,Kolkata,5,2,2447,fragile,81
+Osaka,Delhi,3,1,8842,normal,43
+Osaka,Visakhapatnam,1,3,1388,fragile,49
+Osaka,Singapore,2,1,9161,normal,33
+Osaka,Shanghai,4,3,10993,normal,69
+Osaka,Shenzhen,1,3,2320,fragile,49
+Osaka,Guangzhou,5,1,5408,fragile,73
+Osaka,Hong Kong,5,5,10211,normal,95
+Osaka,Tokyo,4,2,2398,normal,61
+Osaka,Osaka,1,5,10353,fragile,65
+Osaka,Busan,3,1,10912,normal,43
+Osaka,Bangkok,5,5,7624,fragile,105
+Osaka,Jakarta,5,2,11696,normal,71
+Osaka,Dubai,1,2,5314,fragile,41
+Osaka,Doha,2,4,9154,fragile,67
+Osaka,Riyadh,5,3,4361,fragile,89
+Osaka,Jeddah,1,1,8874,normal,23
+Osaka,Istanbul,4,3,9449,fragile,79
+Osaka,Hamburg,2,1,7661,fragile,43
+Osaka,Rotterdam,1,3,11618,normal,39
+Osaka,Antwerp,5,3,2688,fragile,89
+Osaka,London,5,2,1245,normal,71
+Osaka,Le Havre,3,3,2145,normal,59
+Osaka,Barcelona,1,5,6815,fragile,65
+Osaka,Genoa,4,2,6648,fragile,71
+Osaka,Athens,5,2,9012,normal,71
+Osaka,New York,5,1,8998,fragile,73
+Osaka,Los Angeles,2,5,10473,fragile,75
+Osaka,San Francisco,5,5,10124,normal,95
+Osaka,Seattle,4,4,11142,normal,77
+Osaka,Houston,2,4,5573,normal,57
+Osaka,Miami,1,4,4161,fragile,57
+Osaka,Vancouver,1,5,2599,normal,55
+Osaka,Toronto,2,3,3909,fragile,59
+Osaka,Montreal,5,3,9285,normal,79
+Osaka,Sydney,2,2,5520,fragile,51
+Osaka,Melbourne,3,4,11893,fragile,77
+Osaka,Auckland,2,1,8420,fragile,43
+Osaka,Cape Town,2,3,11380,fragile,59
+Osaka,Durban,4,3,10743,normal,69
+Osaka,Lagos,1,4,8418,normal,47
+Osaka,Nairobi,3,3,6160,fragile,69
+Osaka,Santos,3,4,2956,fragile,77
+Osaka,Rio de Janeiro,3,1,9160,normal,43
+Osaka,Buenos Aires,2,4,11453,normal,57
+Osaka,Lima,4,1,4890,fragile,63
+Osaka,Panama City,4,5,8413,fragile,95
+Osaka,Manila,5,3,10322,fragile,89
+Osaka,Ho Chi Minh City,1,1,11324,fragile,33
+Osaka,Kuala Lumpur,5,2,8756,normal,71
+Busan,Mumbai,3,4,6644,normal,67
+Busan,Chennai,5,1,3473,normal,63
+Busan,Kolkata,4,3,3749,normal,69
+Busan,Delhi,1,1,10782,fragile,33
+Busan,Visakhapatnam,1,2,8964,fragile,41
+Busan,Singapore,2,1,8225,fragile,43
+Busan,Shanghai,5,4,1895,fragile,97
+Busan,Shenzhen,5,3,6254,fragile,89
+Busan,Guangzhou,1,4,3935,fragile,57
+Busan,Hong Kong,3,2,6235,fragile,61
+Busan,Tokyo,1,1,4601,fragile,33
+Busan,Osaka,1,4,3979,fragile,57
+Busan,Busan,2,1,6095,fragile,43
+Busan,Bangkok,3,1,8988,fragile,53
+Busan,Jakarta,4,1,4252,normal,53
+Busan,Dubai,4,1,5392,normal,53
+Busan,Doha,2,4,11252,normal,57
+Busan,Riyadh,2,4,6298,fragile,67
+Busan,Jeddah,3,3,1396,normal,59
+Busan,Istanbul,3,3,2858,fragile,69
+Busan,Hamburg,2,1,1421,fragile,43
+Busan,Rotterdam,4,4,3219,fragile,87
+Busan,Antwerp,5,3,5545,fragile,89
+Busan,London,3,3,8981,normal,59
+Busan,Le Havre,2,4,7577,fragile,67
+Busan,Barcelona,2,1,10381,fragile,43
+Busan,Genoa,3,5,5101,normal,75
+Busan,Athens,1,2,7249,fragile,41
+Busan,New York,1,4,9676,normal,47
+Busan,Los Angeles,3,5,11142,normal,75
+Busan,San Francisco,5,4,4369,fragile,97
+Busan,Seattle,4,4,9543,fragile,87
+Busan,Houston,3,3,4287,fragile,69
+Busan,Miami,2,2,5875,fragile,51
+Busan,Vancouver,1,4,3750,normal,47
+Busan,Toronto,1,1,5131,normal,23
+Busan,Montreal,3,3,2559,normal,59
+Busan,Sydney,4,2,1724,fragile,71
+Busan,Melbourne,4,5,4198,normal,85
+Busan,Auckland,5,4,5276,normal,87
+Busan,Cape Town,4,4,10024,fragile,87
+Busan,Durban,2,5,3699,fragile,75
+Busan,Lagos,4,4,5203,normal,77
+Busan,Nairobi,3,4,2363,fragile,77
+Busan,Santos,5,1,8750,fragile,73
+Busan,Rio de Janeiro,4,1,1403,normal,53
+Busan,Buenos Aires,1,1,11652,normal,23
+Busan,Lima,2,3,3360,fragile,59
+Busan,Panama City,3,4,10909,normal,67
+Busan,Manila,3,1,10843,normal,43
+Busan,Ho Chi Minh City,3,4,7218,fragile,77
+Busan,Kuala Lumpur,1,1,1812,fragile,33
+Bangkok,Mumbai,3,2,6198,fragile,61
+Bangkok,Chennai,4,4,10741,fragile,87
+Bangkok,Kolkata,1,2,2803,normal,31
+Bangkok,Delhi,3,3,1204,normal,59
+Bangkok,Visakhapatnam,2,2,4612,fragile,51
+Bangkok,Singapore,3,4,8955,fragile,77
+Bangkok,Shanghai,5,1,2123,normal,63
+Bangkok,Shenzhen,4,2,5644,normal,61
+Bangkok,Guangzhou,2,4,1926,fragile,67
+Bangkok,Hong Kong,1,5,4657,normal,55
+Bangkok,Tokyo,2,3,1550,fragile,59
+Bangkok,Osaka,4,4,8504,normal,77
+Bangkok,Busan,2,5,7178,fragile,75
+Bangkok,Bangkok,1,5,11158,fragile,65
+Bangkok,Jakarta,5,2,10789,normal,71
+Bangkok,Dubai,1,5,9616,fragile,65
+Bangkok,Doha,2,3,4270,fragile,59
+Bangkok,Riyadh,5,1,8427,fragile,73
+Bangkok,Jeddah,3,2,6401,normal,51
+Bangkok,Istanbul,3,4,2969,normal,67
+Bangkok,Hamburg,2,4,1311,normal,57
+Bangkok,Rotterdam,4,5,7918,normal,85
+Bangkok,Antwerp,5,2,3871,fragile,81
+Bangkok,London,1,1,4936,normal,23
+Bangkok,Le Havre,4,3,11235,normal,69
+Bangkok,Barcelona,3,1,2766,normal,43
+Bangkok,Genoa,5,5,10405,fragile,105
+Bangkok,Athens,3,3,4110,normal,59
+Bangkok,New York,3,4,6653,fragile,77
+Bangkok,Los Angeles,1,2,6843,fragile,41
+Bangkok,San Francisco,1,1,9109,fragile,33
+Bangkok,Seattle,5,1,6420,fragile,73
+Bangkok,Houston,2,2,5819,normal,41
+Bangkok,Miami,4,1,3232,normal,53
+Bangkok,Vancouver,4,4,1134,fragile,87
+Bangkok,Toronto,2,1,10680,fragile,43
+Bangkok,Montreal,1,5,6566,normal,55
+Bangkok,Sydney,5,3,5915,normal,79
+Bangkok,Melbourne,1,5,11495,normal,55
+Bangkok,Auckland,4,3,8810,normal,69
+Bangkok,Cape Town,5,1,4500,fragile,73
+Bangkok,Durban,4,2,4207,fragile,71
+Bangkok,Lagos,1,5,9209,fragile,65
+Bangkok,Nairobi,5,2,2362,normal,71
+Bangkok,Santos,5,2,2576,fragile,81
+Bangkok,Rio de Janeiro,2,5,1505,normal,65
+Bangkok,Buenos Aires,3,3,3673,normal,59
+Bangkok,Lima,1,4,4044,normal,47
+Bangkok,Panama City,2,5,2171,normal,65
+Bangkok,Manila,5,3,7936,normal,79
+Bangkok,Ho Chi Minh City,3,4,2161,normal,67
+Bangkok,Kuala Lumpur,2,1,4597,fragile,43
+Jakarta,Mumbai,4,3,5917,fragile,79
+Jakarta,Chennai,3,5,3238,fragile,85
+Jakarta,Kolkata,5,4,11885,fragile,97
+Jakarta,Delhi,1,3,5471,fragile,49
+Jakarta,Visakhapatnam,2,5,1687,normal,65
+Jakarta,Singapore,2,4,9418,normal,57
+Jakarta,Shanghai,4,5,10053,normal,85
+Jakarta,Shenzhen,5,3,9667,normal,79
+Jakarta,Guangzhou,2,1,9626,fragile,43
+Jakarta,Hong Kong,5,5,3681,normal,95
+Jakarta,Tokyo,5,3,6209,normal,79
+Jakarta,Osaka,1,2,8829,fragile,41
+Jakarta,Busan,1,4,1592,normal,47
+Jakarta,Bangkok,4,3,1300,fragile,79
+Jakarta,Jakarta,4,3,5302,fragile,79
+Jakarta,Dubai,2,5,8055,fragile,75
+Jakarta,Doha,3,1,5842,normal,43
+Jakarta,Riyadh,1,3,9474,normal,39
+Jakarta,Jeddah,2,3,1414,fragile,59
+Jakarta,Istanbul,2,4,3206,fragile,67
+Jakarta,Hamburg,3,4,1631,fragile,77
+Jakarta,Rotterdam,2,4,11894,fragile,67
+Jakarta,Antwerp,4,1,4659,normal,53
+Jakarta,London,5,3,8910,fragile,89
+Jakarta,Le Havre,3,3,11286,fragile,69
+Jakarta,Barcelona,2,1,9666,fragile,43
+Jakarta,Genoa,2,1,3517,fragile,43
+Jakarta,Athens,5,5,10313,normal,95
+Jakarta,New York,2,5,10749,normal,65
+Jakarta,Los Angeles,5,4,11527,normal,87
+Jakarta,San Francisco,1,4,11186,normal,47
+Jakarta,Seattle,2,2,8763,normal,41
+Jakarta,Houston,2,1,8467,normal,33
+Jakarta,Miami,1,5,9683,fragile,65
+Jakarta,Vancouver,3,2,4221,fragile,61
+Jakarta,Toronto,4,1,10641,fragile,63
+Jakarta,Montreal,2,3,8600,fragile,59
+Jakarta,Sydney,1,5,3151,fragile,65
+Jakarta,Melbourne,2,1,9106,normal,33
+Jakarta,Auckland,4,3,1257,fragile,79
+Jakarta,Cape Town,1,3,1395,normal,39
+Jakarta,Durban,2,2,6088,fragile,51
+Jakarta,Lagos,2,2,7851,normal,41
+Jakarta,Nairobi,3,5,7930,fragile,85
+Jakarta,Santos,4,2,3880,normal,61
+Jakarta,Rio de Janeiro,4,4,8202,normal,77
+Jakarta,Buenos Aires,5,4,10940,normal,87
+Jakarta,Lima,2,2,8444,normal,41
+Jakarta,Panama City,1,5,3518,normal,55
+Jakarta,Manila,3,3,11947,fragile,69
+Jakarta,Ho Chi Minh City,4,5,10817,normal,85
+Jakarta,Kuala Lumpur,1,4,5401,normal,47
+Dubai,Mumbai,1,5,10302,fragile,65
+Dubai,Chennai,2,3,1572,fragile,59
+Dubai,Kolkata,4,1,5314,fragile,63
+Dubai,Delhi,4,1,5165,normal,53
+Dubai,Visakhapatnam,3,5,3127,normal,75
+Dubai,Singapore,2,5,8971,normal,65
+Dubai,Shanghai,5,1,1584,fragile,73
+Dubai,Shenzhen,4,2,11034,normal,61
+Dubai,Guangzhou,2,2,5700,fragile,51
+Dubai,Hong Kong,3,3,9680,normal,59
+Dubai,Tokyo,1,2,5767,fragile,41
+Dubai,Osaka,3,1,8058,normal,43
+Dubai,Busan,4,3,11211,normal,69
+Dubai,Bangkok,1,4,9764,fragile,57
+Dubai,Jakarta,4,2,4719,normal,61
+Dubai,Dubai,1,5,1230,normal,55
+Dubai,Doha,4,2,8219,fragile,71
+Dubai,Riyadh,2,2,9499,normal,41
+Dubai,Jeddah,5,2,1352,normal,71
+Dubai,Istanbul,1,2,3287,fragile,41
+Dubai,Hamburg,4,2,8263,fragile,71
+Dubai,Rotterdam,5,5,10460,fragile,105
+Dubai,Antwerp,1,3,9968,normal,39
+Dubai,London,4,4,7345,fragile,87
+Dubai,Le Havre,2,2,7929,normal,41
+Dubai,Barcelona,5,4,11345,normal,87
+Dubai,Genoa,3,1,6100,fragile,53
+Dubai,Athens,2,1,8903,fragile,43
+Dubai,New York,3,1,9931,fragile,53
+Dubai,Los Angeles,3,3,11950,normal,59
+Dubai,San Francisco,2,1,11928,normal,33
+Dubai,Seattle,2,3,7786,normal,49
+Dubai,Houston,3,4,10567,normal,67
+Dubai,Miami,2,1,6324,normal,33
+Dubai,Vancouver,2,4,7945,normal,57
+Dubai,Toronto,2,2,1214,fragile,51
+Dubai,Montreal,4,3,4263,normal,69
+Dubai,Sydney,5,4,1561,normal,87
+Dubai,Melbourne,4,5,10722,fragile,95
+Dubai,Auckland,2,2,9576,fragile,51
+Dubai,Cape Town,5,1,6561,fragile,73
+Dubai,Durban,4,5,10410,normal,85
+Dubai,Lagos,3,2,4246,fragile,61
+Dubai,Nairobi,1,2,2698,fragile,41
+Dubai,Santos,2,1,7094,normal,33
+Dubai,Rio de Janeiro,2,2,11265,normal,41
+Dubai,Buenos Aires,5,2,4281,normal,71
+Dubai,Lima,1,2,11284,fragile,41
+Dubai,Panama City,1,5,11126,normal,55
+Dubai,Manila,2,4,2582,fragile,67
+Dubai,Ho Chi Minh City,1,1,11569,normal,23
+Dubai,Kuala Lumpur,4,3,10832,fragile,79
+Doha,Mumbai,5,1,4522,normal,63
+Doha,Chennai,5,5,2173,normal,95
+Doha,Kolkata,2,4,6185,normal,57
+Doha,Delhi,3,4,10235,fragile,77
+Doha,Visakhapatnam,5,3,3241,normal,79
+Doha,Singapore,4,2,2612,normal,61
+Doha,Shanghai,1,1,9336,fragile,33
+Doha,Shenzhen,3,3,10354,fragile,69
+Doha,Guangzhou,3,2,5402,normal,51
+Doha,Hong Kong,1,2,4264,normal,31
+Doha,Tokyo,1,1,9627,fragile,33
+Doha,Osaka,5,2,5432,normal,71
+Doha,Busan,4,1,5036,normal,53
+Doha,Bangkok,5,2,3541,fragile,81
+Doha,Jakarta,3,2,6592,fragile,61
+Doha,Dubai,2,2,11826,normal,41
+Doha,Doha,1,2,10085,fragile,41
+Doha,Riyadh,2,4,11290,normal,57
+Doha,Jeddah,4,5,7909,fragile,95
+Doha,Istanbul,2,3,3699,fragile,59
+Doha,Hamburg,3,1,1293,normal,43
+Doha,Rotterdam,5,3,3691,normal,79
+Doha,Antwerp,3,1,7617,fragile,53
+Doha,London,3,4,8263,fragile,77
+Doha,Le Havre,4,5,8078,fragile,95
+Doha,Barcelona,3,3,4698,fragile,69
+Doha,Genoa,2,1,2382,fragile,43
+Doha,Athens,3,5,9011,fragile,85
+Doha,New York,1,5,6496,normal,55
+Doha,Los Angeles,3,3,10921,fragile,69
+Doha,San Francisco,4,3,10455,fragile,79
+Doha,Seattle,4,2,8487,normal,61
+Doha,Houston,4,5,2731,fragile,95
+Doha,Miami,5,1,6698,normal,63
+Doha,Vancouver,1,2,6006,fragile,41
+Doha,Toronto,3,3,5877,normal,59
+Doha,Montreal,4,1,6692,fragile,63
+Doha,Sydney,5,5,2205,normal,95
+Doha,Melbourne,3,3,5619,fragile,69
+Doha,Auckland,4,5,10002,normal,85
+Doha,Cape Town,3,4,9080,normal,67
+Doha,Durban,5,4,1113,normal,87
+Doha,Lagos,5,3,5453,normal,79
+Doha,Nairobi,3,2,7051,fragile,61
+Doha,Santos,2,2,1747,fragile,51
+Doha,Rio de Janeiro,5,2,8843,fragile,81
+Doha,Buenos Aires,1,5,7734,fragile,65
+Doha,Lima,4,4,4782,fragile,87
+Doha,Panama City,5,2,3210,normal,71
+Doha,Manila,2,3,8030,normal,49
+Doha,Ho Chi Minh City,5,1,3502,normal,63
+Doha,Kuala Lumpur,4,5,7625,fragile,95
+Riyadh,Mumbai,3,4,6293,normal,67
+Riyadh,Chennai,4,3,3557,fragile,79
+Riyadh,Kolkata,2,3,3892,fragile,59
+Riyadh,Delhi,3,4,11973,fragile,77
+Riyadh,Visakhapatnam,2,3,8320,normal,49
+Riyadh,Singapore,5,1,8322,normal,63
+Riyadh,Shanghai,2,3,9043,normal,49
+Riyadh,Shenzhen,3,3,7121,fragile,69
+Riyadh,Guangzhou,3,1,3510,fragile,53
+Riyadh,Hong Kong,4,2,4236,normal,61
+Riyadh,Tokyo,1,1,5311,normal,23
+Riyadh,Osaka,3,5,7315,fragile,85
+Riyadh,Busan,1,4,3782,fragile,57
+Riyadh,Bangkok,3,5,6220,normal,75
+Riyadh,Jakarta,2,4,3210,normal,57
+Riyadh,Dubai,1,3,9056,fragile,49
+Riyadh,Doha,3,2,7377,fragile,61
+Riyadh,Riyadh,5,3,9599,normal,79
+Riyadh,Jeddah,2,5,4413,normal,65
+Riyadh,Istanbul,5,1,11437,fragile,73
+Riyadh,Hamburg,3,5,10197,normal,75
+Riyadh,Rotterdam,1,4,3959,fragile,57
+Riyadh,Antwerp,2,5,1375,normal,65
+Riyadh,London,5,5,11596,fragile,105
+Riyadh,Le Havre,2,1,11795,fragile,43
+Riyadh,Barcelona,3,5,6271,normal,75
+Riyadh,Genoa,2,4,2867,fragile,67
+Riyadh,Athens,3,3,2910,normal,59
+Riyadh,New York,5,5,8102,fragile,105
+Riyadh,Los Angeles,5,4,11272,fragile,97
+Riyadh,San Francisco,5,1,10445,normal,63
+Riyadh,Seattle,3,4,10172,normal,67
+Riyadh,Houston,4,4,8144,normal,77
+Riyadh,Miami,3,5,9285,normal,75
+Riyadh,Vancouver,5,2,9642,normal,71
+Riyadh,Toronto,3,2,8812,fragile,61
+Riyadh,Montreal,3,3,8944,normal,59
+Riyadh,Sydney,3,5,8811,fragile,85
+Riyadh,Melbourne,4,1,1982,normal,53
+Riyadh,Auckland,5,5,4873,fragile,105
+Riyadh,Cape Town,2,3,5509,fragile,59
+Riyadh,Durban,5,1,1479,normal,63
+Riyadh,Lagos,4,2,9627,normal,61
+Riyadh,Nairobi,1,4,3700,normal,47
+Riyadh,Santos,2,1,9105,fragile,43
+Riyadh,Rio de Janeiro,5,3,11173,fragile,89
+Riyadh,Buenos Aires,2,3,10601,fragile,59
+Riyadh,Lima,4,4,6913,fragile,87
+Riyadh,Panama City,5,1,11690,normal,63
+Riyadh,Manila,4,2,1596,normal,61
+Riyadh,Ho Chi Minh City,2,5,1000,normal,65
+Riyadh,Kuala Lumpur,2,5,9502,normal,65
+Jeddah,Mumbai,1,5,11203,fragile,65
+Jeddah,Chennai,5,4,6588,normal,87
+Jeddah,Kolkata,5,3,7719,normal,79
+Jeddah,Delhi,2,5,10477,normal,65
+Jeddah,Visakhapatnam,5,3,1310,normal,79
+Jeddah,Singapore,2,1,2864,fragile,43
+Jeddah,Shanghai,3,1,8894,fragile,53
+Jeddah,Shenzhen,1,3,11263,fragile,49
+Jeddah,Guangzhou,4,3,1394,fragile,79
+Jeddah,Hong Kong,3,4,9855,fragile,77
+Jeddah,Tokyo,2,1,10933,fragile,43
+Jeddah,Osaka,3,4,10117,fragile,77
+Jeddah,Busan,4,2,4322,normal,61
+Jeddah,Bangkok,1,3,2429,fragile,49
+Jeddah,Jakarta,3,1,5633,normal,43
+Jeddah,Dubai,4,2,1080,fragile,71
+Jeddah,Doha,4,4,5358,fragile,87
+Jeddah,Riyadh,5,5,6634,fragile,105
+Jeddah,Jeddah,2,5,3385,normal,65
+Jeddah,Istanbul,5,4,6931,fragile,97
+Jeddah,Hamburg,4,5,1962,normal,85
+Jeddah,Rotterdam,3,5,7558,fragile,85
+Jeddah,Antwerp,3,1,9424,normal,43
+Jeddah,London,4,2,6101,normal,61
+Jeddah,Le Havre,4,1,8773,fragile,63
+Jeddah,Barcelona,5,5,5061,fragile,105
+Jeddah,Genoa,4,1,3722,normal,53
+Jeddah,Athens,3,5,6757,fragile,85
+Jeddah,New York,3,2,5518,normal,51
+Jeddah,Los Angeles,2,1,4412,fragile,43
+Jeddah,San Francisco,1,4,10547,normal,47
+Jeddah,Seattle,5,2,10992,normal,71
+Jeddah,Houston,4,1,8980,fragile,63
+Jeddah,Miami,2,5,2088,normal,65
+Jeddah,Vancouver,5,2,1633,normal,71
+Jeddah,Toronto,5,1,4619,normal,63
+Jeddah,Montreal,3,2,8315,fragile,61
+Jeddah,Sydney,5,1,3301,normal,63
+Jeddah,Melbourne,5,5,1980,fragile,105
+Jeddah,Auckland,2,2,5829,fragile,51
+Jeddah,Cape Town,5,3,2566,normal,79
+Jeddah,Durban,3,5,3572,fragile,85
+Jeddah,Lagos,2,1,10278,fragile,43
+Jeddah,Nairobi,4,5,6791,normal,85
+Jeddah,Santos,1,4,11570,fragile,57
+Jeddah,Rio de Janeiro,3,4,9791,fragile,77
+Jeddah,Buenos Aires,2,3,4597,normal,49
+Jeddah,Lima,1,5,6898,fragile,65
+Jeddah,Panama City,1,3,8388,fragile,49
+Jeddah,Manila,5,1,11390,fragile,73
+Jeddah,Ho Chi Minh City,4,3,7848,fragile,79
+Jeddah,Kuala Lumpur,2,3,6687,normal,49
+Istanbul,Mumbai,5,1,1765,normal,63
+Istanbul,Chennai,1,4,2135,normal,47
+Istanbul,Kolkata,1,5,3282,normal,55
+Istanbul,Delhi,2,1,2008,normal,33
+Istanbul,Visakhapatnam,2,1,11767,fragile,43
+Istanbul,Singapore,2,3,7845,normal,49
+Istanbul,Shanghai,3,4,2536,fragile,77
+Istanbul,Shenzhen,4,3,5126,normal,69
+Istanbul,Guangzhou,2,1,11545,fragile,43
+Istanbul,Hong Kong,5,5,9460,fragile,105
+Istanbul,Tokyo,1,1,2132,fragile,33
+Istanbul,Osaka,4,2,7637,normal,61
+Istanbul,Busan,3,3,1767,normal,59
+Istanbul,Bangkok,4,2,6182,fragile,71
+Istanbul,Jakarta,4,1,10139,normal,53
+Istanbul,Dubai,5,5,4521,fragile,105
+Istanbul,Doha,1,2,3777,normal,31
+Istanbul,Riyadh,1,2,9292,normal,31
+Istanbul,Jeddah,1,3,10590,normal,39
+Istanbul,Istanbul,2,1,1863,fragile,43
+Istanbul,Hamburg,3,1,1729,fragile,53
+Istanbul,Rotterdam,5,5,9596,normal,95
+Istanbul,Antwerp,4,5,2003,fragile,95
+Istanbul,London,5,2,3963,fragile,81
+Istanbul,Le Havre,4,3,10451,normal,69
+Istanbul,Barcelona,1,3,6087,fragile,49
+Istanbul,Genoa,3,3,8898,normal,59
+Istanbul,Athens,4,2,11475,normal,61
+Istanbul,New York,1,5,2640,normal,55
+Istanbul,Los Angeles,3,5,3393,normal,75
+Istanbul,San Francisco,1,2,1202,normal,31
+Istanbul,Seattle,4,3,9114,normal,69
+Istanbul,Houston,5,2,9928,normal,71
+Istanbul,Miami,5,5,4612,fragile,105
+Istanbul,Vancouver,5,1,7057,normal,63
+Istanbul,Toronto,4,3,7176,normal,69
+Istanbul,Montreal,3,4,5254,fragile,77
+Istanbul,Sydney,5,1,9931,normal,63
+Istanbul,Melbourne,5,3,8361,normal,79
+Istanbul,Auckland,1,5,1265,fragile,65
+Istanbul,Cape Town,1,5,10424,fragile,65
+Istanbul,Durban,1,3,5381,fragile,49
+Istanbul,Lagos,3,5,11424,fragile,85
+Istanbul,Nairobi,3,4,10560,normal,67
+Istanbul,Santos,2,3,4589,normal,49
+Istanbul,Rio de Janeiro,1,3,9915,fragile,49
+Istanbul,Buenos Aires,4,4,9093,normal,77
+Istanbul,Lima,3,5,8117,fragile,85
+Istanbul,Panama City,1,5,7736,fragile,65
+Istanbul,Manila,1,2,5927,normal,31
+Istanbul,Ho Chi Minh City,1,1,9790,normal,23
+Istanbul,Kuala Lumpur,1,3,4456,normal,39
+Hamburg,Mumbai,2,3,3426,fragile,59
+Hamburg,Chennai,5,1,1883,normal,63
+Hamburg,Kolkata,2,4,11604,fragile,67
+Hamburg,Delhi,5,5,4088,normal,95
+Hamburg,Visakhapatnam,1,5,7618,fragile,65
+Hamburg,Singapore,1,3,6010,fragile,49
+Hamburg,Shanghai,5,5,5807,fragile,105
+Hamburg,Shenzhen,4,4,10586,normal,77
+Hamburg,Guangzhou,3,1,5001,fragile,53
+Hamburg,Hong Kong,4,3,8646,normal,69
+Hamburg,Tokyo,3,4,5427,fragile,77
+Hamburg,Osaka,4,1,10057,fragile,63
+Hamburg,Busan,2,3,8331,normal,49
+Hamburg,Bangkok,2,3,4538,normal,49
+Hamburg,Jakarta,2,4,7876,normal,57
+Hamburg,Dubai,3,5,5195,fragile,85
+Hamburg,Doha,5,4,6340,fragile,97
+Hamburg,Riyadh,1,1,11152,fragile,33
+Hamburg,Jeddah,1,1,9056,fragile,33
+Hamburg,Istanbul,3,1,1988,fragile,53
+Hamburg,Hamburg,3,5,2292,normal,75
+Hamburg,Rotterdam,4,3,1409,normal,69
+Hamburg,Antwerp,2,5,5553,normal,65
+Hamburg,London,1,1,2850,fragile,33
+Hamburg,Le Havre,4,2,10398,fragile,71
+Hamburg,Barcelona,1,4,11949,normal,47
+Hamburg,Genoa,4,4,1700,normal,77
+Hamburg,Athens,1,3,4238,normal,39
+Hamburg,New York,3,1,5128,normal,43
+Hamburg,Los Angeles,4,5,2035,normal,85
+Hamburg,San Francisco,1,3,9210,fragile,49
+Hamburg,Seattle,2,5,9108,normal,65
+Hamburg,Houston,5,3,8307,normal,79
+Hamburg,Miami,5,3,2026,fragile,89
+Hamburg,Vancouver,2,4,5650,normal,57
+Hamburg,Toronto,3,5,1025,normal,75
+Hamburg,Montreal,5,3,1472,normal,79
+Hamburg,Sydney,1,5,5308,normal,55
+Hamburg,Melbourne,5,2,6646,normal,71
+Hamburg,Auckland,2,1,2627,normal,33
+Hamburg,Cape Town,3,2,1898,fragile,61
+Hamburg,Durban,1,2,11635,normal,31
+Hamburg,Lagos,5,5,11410,fragile,105
+Hamburg,Nairobi,5,2,4575,normal,71
+Hamburg,Santos,2,5,6558,normal,65
+Hamburg,Rio de Janeiro,5,1,11411,fragile,73
+Hamburg,Buenos Aires,2,2,2795,fragile,51
+Hamburg,Lima,2,2,9846,fragile,51
+Hamburg,Panama City,4,3,1534,fragile,79
+Hamburg,Manila,4,2,10521,normal,61
+Hamburg,Ho Chi Minh City,5,3,1926,normal,79
+Hamburg,Kuala Lumpur,3,2,10283,fragile,61
+Rotterdam,Mumbai,2,1,6847,normal,33
+Rotterdam,Chennai,3,5,11428,normal,75
+Rotterdam,Kolkata,4,1,6452,normal,53
+Rotterdam,Delhi,5,3,9836,fragile,89
+Rotterdam,Visakhapatnam,4,3,11587,fragile,79
+Rotterdam,Singapore,3,4,11079,fragile,77
+Rotterdam,Shanghai,2,1,9360,normal,33
+Rotterdam,Shenzhen,2,1,10149,normal,33
+Rotterdam,Guangzhou,4,4,11973,normal,77
+Rotterdam,Hong Kong,3,2,10715,normal,51
+Rotterdam,Tokyo,5,1,5893,normal,63
+Rotterdam,Osaka,1,1,10932,normal,23
+Rotterdam,Busan,3,1,11037,fragile,53
+Rotterdam,Bangkok,2,1,10910,normal,33
+Rotterdam,Jakarta,4,1,2468,fragile,63
+Rotterdam,Dubai,2,2,5393,fragile,51
+Rotterdam,Doha,2,4,4352,normal,57
+Rotterdam,Riyadh,5,4,3618,normal,87
+Rotterdam,Jeddah,5,4,3940,normal,87
+Rotterdam,Istanbul,3,1,5878,fragile,53
+Rotterdam,Hamburg,3,4,8292,normal,67
+Rotterdam,Rotterdam,4,2,6387,fragile,71
+Rotterdam,Antwerp,5,1,9347,normal,63
+Rotterdam,London,2,2,1072,normal,41
+Rotterdam,Le Havre,1,2,10466,normal,31
+Rotterdam,Barcelona,2,2,6108,normal,41
+Rotterdam,Genoa,2,1,5209,fragile,43
+Rotterdam,Athens,3,5,8897,normal,75
+Rotterdam,New York,4,4,8307,normal,77
+Rotterdam,Los Angeles,2,3,4940,fragile,59
+Rotterdam,San Francisco,2,4,5497,fragile,67
+Rotterdam,Seattle,4,2,10659,normal,61
+Rotterdam,Houston,5,5,9579,fragile,105
+Rotterdam,Miami,4,2,5137,fragile,71
+Rotterdam,Vancouver,4,2,8743,fragile,71
+Rotterdam,Toronto,1,3,2834,normal,39
+Rotterdam,Montreal,3,2,7974,fragile,61
+Rotterdam,Sydney,1,2,10435,fragile,41
+Rotterdam,Melbourne,3,2,3793,fragile,61
+Rotterdam,Auckland,2,5,11369,fragile,75
+Rotterdam,Cape Town,3,4,1203,fragile,77
+Rotterdam,Durban,2,2,4390,fragile,51
+Rotterdam,Lagos,1,1,5462,fragile,33
+Rotterdam,Nairobi,2,4,2817,normal,57
+Rotterdam,Santos,5,3,3629,fragile,89
+Rotterdam,Rio de Janeiro,5,5,10756,fragile,105
+Rotterdam,Buenos Aires,4,4,9206,normal,77
+Rotterdam,Lima,4,2,3157,normal,61
+Rotterdam,Panama City,2,1,6170,fragile,43
+Rotterdam,Manila,4,4,10893,normal,77
+Rotterdam,Ho Chi Minh City,3,5,10120,fragile,85
+Rotterdam,Kuala Lumpur,2,2,9985,fragile,51
+Antwerp,Mumbai,2,2,10507,fragile,51
+Antwerp,Chennai,2,5,3872,normal,65
+Antwerp,Kolkata,5,2,6097,normal,71
+Antwerp,Delhi,1,5,6322,normal,55
+Antwerp,Visakhapatnam,1,3,6619,fragile,49
+Antwerp,Singapore,2,5,5235,normal,65
+Antwerp,Shanghai,2,2,10308,fragile,51
+Antwerp,Shenzhen,4,1,4922,normal,53
+Antwerp,Guangzhou,5,4,7127,normal,87
+Antwerp,Hong Kong,2,2,10155,normal,41
+Antwerp,Tokyo,2,1,1604,fragile,43
+Antwerp,Osaka,3,3,4751,normal,59
+Antwerp,Busan,3,4,11360,fragile,77
+Antwerp,Bangkok,5,1,5294,normal,63
+Antwerp,Jakarta,2,2,8591,normal,41
+Antwerp,Dubai,5,1,6451,normal,63
+Antwerp,Doha,3,2,8753,normal,51
+Antwerp,Riyadh,2,2,9370,fragile,51
+Antwerp,Jeddah,2,3,11133,fragile,59
+Antwerp,Istanbul,3,3,6998,fragile,69
+Antwerp,Hamburg,3,4,3529,normal,67
+Antwerp,Rotterdam,5,3,4757,normal,79
+Antwerp,Antwerp,3,2,7092,normal,51
+Antwerp,London,5,1,7604,normal,63
+Antwerp,Le Havre,4,3,11502,fragile,79
+Antwerp,Barcelona,5,5,3203,normal,95
+Antwerp,Genoa,2,1,4154,normal,33
+Antwerp,Athens,3,4,9750,normal,67
+Antwerp,New York,1,1,8530,fragile,33
+Antwerp,Los Angeles,5,5,10156,normal,95
+Antwerp,San Francisco,2,3,11090,fragile,59
+Antwerp,Seattle,2,1,2508,fragile,43
+Antwerp,Houston,1,4,5827,fragile,57
+Antwerp,Miami,2,2,2674,fragile,51
+Antwerp,Vancouver,3,3,2401,normal,59
+Antwerp,Toronto,3,5,7532,fragile,85
+Antwerp,Montreal,1,1,9467,fragile,33
+Antwerp,Sydney,4,5,2060,fragile,95
+Antwerp,Melbourne,3,2,11194,fragile,61
+Antwerp,Auckland,5,1,9068,fragile,73
+Antwerp,Cape Town,2,5,7865,normal,65
+Antwerp,Durban,2,1,5329,fragile,43
+Antwerp,Lagos,2,3,8076,normal,49
+Antwerp,Nairobi,1,3,9644,fragile,49
+Antwerp,Santos,3,2,3788,normal,51
+Antwerp,Rio de Janeiro,2,4,9132,normal,57
+Antwerp,Buenos Aires,3,3,8598,fragile,69
+Antwerp,Lima,3,1,2042,normal,43
+Antwerp,Panama City,4,1,2431,fragile,63
+Antwerp,Manila,4,3,11632,fragile,79
+Antwerp,Ho Chi Minh City,3,4,2979,normal,67
+Antwerp,Kuala Lumpur,2,1,3154,normal,33
+London,Mumbai,3,1,5354,fragile,53
+London,Chennai,5,2,9670,fragile,81
+London,Kolkata,5,2,5098,fragile,81
+London,Delhi,5,2,5703,fragile,81
+London,Visakhapatnam,1,3,1130,normal,39
+London,Singapore,2,3,6276,fragile,59
+London,Shanghai,4,3,11454,fragile,79
+London,Shenzhen,2,3,11600,normal,49
+London,Guangzhou,3,1,5312,fragile,53
+London,Hong Kong,1,3,4796,normal,39
+London,Tokyo,1,3,1259,fragile,49
+London,Osaka,5,5,2415,fragile,105
+London,Busan,2,3,1282,fragile,59
+London,Bangkok,1,5,5042,normal,55
+London,Jakarta,1,1,10592,normal,23
+London,Dubai,2,4,2860,normal,57
+London,Doha,3,5,4036,normal,75
+London,Riyadh,2,5,8995,normal,65
+London,Jeddah,1,3,9270,normal,39
+London,Istanbul,5,1,2292,normal,63
+London,Hamburg,5,1,2653,normal,63
+London,Rotterdam,3,2,7426,fragile,61
+London,Antwerp,2,1,5145,fragile,43
+London,London,2,4,7158,normal,57
+London,Le Havre,5,1,10601,fragile,73
+London,Barcelona,3,5,8758,fragile,85
+London,Genoa,2,4,5832,normal,57
+London,Athens,5,5,9445,normal,95
+London,New York,3,4,10781,normal,67
+London,Los Angeles,4,1,4491,normal,53
+London,San Francisco,2,1,4398,normal,33
+London,Seattle,4,4,5678,fragile,87
+London,Houston,3,3,9166,normal,59
+London,Miami,1,5,5213,fragile,65
+London,Vancouver,3,4,8371,normal,67
+London,Toronto,4,4,7827,fragile,87
+London,Montreal,3,2,9222,fragile,61
+London,Sydney,5,4,10548,normal,87
+London,Melbourne,5,4,6410,fragile,97
+London,Auckland,5,5,6239,fragile,105
+London,Cape Town,4,2,10270,fragile,71
+London,Durban,4,2,2650,normal,61
+London,Lagos,1,3,6848,normal,39
+London,Nairobi,2,2,10472,fragile,51
+London,Santos,1,4,8466,normal,47
+London,Rio de Janeiro,1,2,6696,fragile,41
+London,Buenos Aires,3,2,6278,normal,51
+London,Lima,4,2,10754,fragile,71
+London,Panama City,4,5,2711,normal,85
+London,Manila,1,3,8084,fragile,49
+London,Ho Chi Minh City,4,1,7536,normal,53
+London,Kuala Lumpur,4,3,11460,normal,69
+Le Havre,Mumbai,4,4,7373,fragile,87
+Le Havre,Chennai,4,1,11460,normal,53
+Le Havre,Kolkata,5,5,11596,normal,95
+Le Havre,Delhi,1,5,4526,fragile,65
+Le Havre,Visakhapatnam,4,2,4387,normal,61
+Le Havre,Singapore,3,4,3594,fragile,77
+Le Havre,Shanghai,5,2,6302,fragile,81
+Le Havre,Shenzhen,3,5,10552,fragile,85
+Le Havre,Guangzhou,1,4,2452,normal,47
+Le Havre,Hong Kong,5,4,4595,normal,87
+Le Havre,Tokyo,5,4,8929,fragile,97
+Le Havre,Osaka,2,2,5385,normal,41
+Le Havre,Busan,5,2,1115,normal,71
+Le Havre,Bangkok,4,2,10704,fragile,71
+Le Havre,Jakarta,4,2,9064,fragile,71
+Le Havre,Dubai,3,1,6517,fragile,53
+Le Havre,Doha,2,1,4312,fragile,43
+Le Havre,Riyadh,4,3,4119,normal,69
+Le Havre,Jeddah,5,2,6932,fragile,81
+Le Havre,Istanbul,4,3,10201,normal,69
+Le Havre,Hamburg,3,4,1089,normal,67
+Le Havre,Rotterdam,2,1,5470,normal,33
+Le Havre,Antwerp,2,3,1621,normal,49
+Le Havre,London,1,4,2555,normal,47
+Le Havre,Le Havre,3,5,10229,normal,75
+Le Havre,Barcelona,5,4,2183,normal,87
+Le Havre,Genoa,3,5,10977,fragile,85
+Le Havre,Athens,5,5,9915,normal,95
+Le Havre,New York,3,1,7089,fragile,53
+Le Havre,Los Angeles,5,1,6524,normal,63
+Le Havre,San Francisco,2,1,11057,fragile,43
+Le Havre,Seattle,2,1,9747,fragile,43
+Le Havre,Houston,5,1,5739,fragile,73
+Le Havre,Miami,1,1,9311,normal,23
+Le Havre,Vancouver,2,3,1860,normal,49
+Le Havre,Toronto,1,3,10414,fragile,49
+Le Havre,Montreal,1,4,1233,normal,47
+Le Havre,Sydney,2,1,3913,fragile,43
+Le Havre,Melbourne,5,4,2149,fragile,97
+Le Havre,Auckland,5,3,2232,normal,79
+Le Havre,Cape Town,3,2,1915,normal,51
+Le Havre,Durban,1,1,4545,fragile,33
+Le Havre,Lagos,2,1,1631,normal,33
+Le Havre,Nairobi,5,3,2364,normal,79
+Le Havre,Santos,5,5,11772,fragile,105
+Le Havre,Rio de Janeiro,1,2,11070,normal,31
+Le Havre,Buenos Aires,1,1,6708,normal,23
+Le Havre,Lima,2,4,10358,normal,57
+Le Havre,Panama City,5,4,10108,normal,87
+Le Havre,Manila,3,4,10089,normal,67
+Le Havre,Ho Chi Minh City,4,3,10745,normal,69
+Le Havre,Kuala Lumpur,1,3,1742,normal,39
+Barcelona,Mumbai,1,4,10262,normal,47
+Barcelona,Chennai,2,2,9597,normal,41
+Barcelona,Kolkata,3,4,2664,normal,67
+Barcelona,Delhi,4,5,4812,normal,85
+Barcelona,Visakhapatnam,3,3,9942,fragile,69
+Barcelona,Singapore,2,3,4346,fragile,59
+Barcelona,Shanghai,2,5,7121,fragile,75
+Barcelona,Shenzhen,5,5,4584,normal,95
+Barcelona,Guangzhou,2,4,6694,fragile,67
+Barcelona,Hong Kong,1,5,9148,fragile,65
+Barcelona,Tokyo,5,3,5119,normal,79
+Barcelona,Osaka,2,1,10240,normal,33
+Barcelona,Busan,3,3,9326,fragile,69
+Barcelona,Bangkok,2,3,11980,normal,49
+Barcelona,Jakarta,2,2,7217,normal,41
+Barcelona,Dubai,4,4,6745,normal,77
+Barcelona,Doha,5,5,10781,normal,95
+Barcelona,Riyadh,2,1,9111,normal,33
+Barcelona,Jeddah,1,5,8673,normal,55
+Barcelona,Istanbul,1,3,2962,normal,39
+Barcelona,Hamburg,2,3,7187,normal,49
+Barcelona,Rotterdam,3,2,3322,normal,51
+Barcelona,Antwerp,4,2,1085,normal,61
+Barcelona,London,5,5,1738,normal,95
+Barcelona,Le Havre,2,4,3299,fragile,67
+Barcelona,Barcelona,2,5,1576,fragile,75
+Barcelona,Genoa,2,1,9868,fragile,43
+Barcelona,Athens,1,4,5544,normal,47
+Barcelona,New York,1,5,4065,normal,55
+Barcelona,Los Angeles,3,1,9610,fragile,53
+Barcelona,San Francisco,4,2,7583,fragile,71
+Barcelona,Seattle,5,3,6625,normal,79
+Barcelona,Houston,2,4,3771,normal,57
+Barcelona,Miami,2,4,7268,normal,57
+Barcelona,Vancouver,5,1,3032,fragile,73
+Barcelona,Toronto,2,4,3570,fragile,67
+Barcelona,Montreal,4,4,10314,normal,77
+Barcelona,Sydney,1,4,4422,fragile,57
+Barcelona,Melbourne,4,3,6049,normal,69
+Barcelona,Auckland,3,2,3324,fragile,61
+Barcelona,Cape Town,2,1,10491,fragile,43
+Barcelona,Durban,3,1,1892,fragile,53
+Barcelona,Lagos,2,5,9636,normal,65
+Barcelona,Nairobi,4,3,3806,normal,69
+Barcelona,Santos,5,5,11365,normal,95
+Barcelona,Rio de Janeiro,4,2,5922,normal,61
+Barcelona,Buenos Aires,2,1,1579,fragile,43
+Barcelona,Lima,1,4,3039,normal,47
+Barcelona,Panama City,5,2,4593,normal,71
+Barcelona,Manila,3,1,2042,normal,43
+Barcelona,Ho Chi Minh City,2,1,1204,fragile,43
+Barcelona,Kuala Lumpur,5,1,7517,fragile,73
+Genoa,Mumbai,5,5,7811,fragile,105
+Genoa,Chennai,4,1,8987,fragile,63
+Genoa,Kolkata,2,5,8883,normal,65
+Genoa,Delhi,5,4,6062,normal,87
+Genoa,Visakhapatnam,5,3,11625,normal,79
+Genoa,Singapore,3,2,2939,fragile,61
+Genoa,Shanghai,2,2,1395,normal,41
+Genoa,Shenzhen,3,4,11169,fragile,77
+Genoa,Guangzhou,4,1,5945,normal,53
+Genoa,Hong Kong,3,1,11025,fragile,53
+Genoa,Tokyo,1,5,11361,normal,55
+Genoa,Osaka,5,4,5057,fragile,97
+Genoa,Busan,3,4,4631,normal,67
+Genoa,Bangkok,1,2,2254,fragile,41
+Genoa,Jakarta,2,3,2939,normal,49
+Genoa,Dubai,1,3,9186,normal,39
+Genoa,Doha,2,5,2594,fragile,75
+Genoa,Riyadh,2,1,10013,normal,33
+Genoa,Jeddah,1,1,11002,fragile,33
+Genoa,Istanbul,4,5,2797,fragile,95
+Genoa,Hamburg,4,1,10115,normal,53
+Genoa,Rotterdam,2,2,1727,fragile,51
+Genoa,Antwerp,5,4,5390,fragile,97
+Genoa,London,1,1,1726,normal,23
+Genoa,Le Havre,4,5,3811,normal,85
+Genoa,Barcelona,4,2,6483,normal,61
+Genoa,Genoa,3,1,8606,normal,43
+Genoa,Athens,3,5,8187,fragile,85
+Genoa,New York,1,3,1507,normal,39
+Genoa,Los Angeles,2,2,10692,fragile,51
+Genoa,San Francisco,5,1,2423,fragile,73
+Genoa,Seattle,3,3,1637,normal,59
+Genoa,Houston,3,4,7365,normal,67
+Genoa,Miami,4,5,5173,normal,85
+Genoa,Vancouver,1,2,6643,fragile,41
+Genoa,Toronto,3,3,4933,fragile,69
+Genoa,Montreal,2,1,10783,normal,33
+Genoa,Sydney,3,4,7802,normal,67
+Genoa,Melbourne,1,2,1177,fragile,41
+Genoa,Auckland,5,3,10525,normal,79
+Genoa,Cape Town,1,1,1075,normal,23
+Genoa,Durban,3,5,1392,normal,75
+Genoa,Lagos,1,2,11120,normal,31
+Genoa,Nairobi,3,4,3377,fragile,77
+Genoa,Santos,4,3,8783,fragile,79
+Genoa,Rio de Janeiro,2,4,9267,fragile,67
+Genoa,Buenos Aires,4,2,6445,fragile,71
+Genoa,Lima,2,4,7339,fragile,67
+Genoa,Panama City,5,2,5591,normal,71
+Genoa,Manila,1,3,8559,fragile,49
+Genoa,Ho Chi Minh City,5,2,7173,fragile,81
+Genoa,Kuala Lumpur,4,2,8248,fragile,71
+Athens,Mumbai,3,2,5844,normal,51
+Athens,Chennai,4,5,1937,fragile,95
+Athens,Kolkata,2,4,1627,fragile,67
+Athens,Delhi,2,5,3255,normal,65
+Athens,Visakhapatnam,1,3,11878,fragile,49
+Athens,Singapore,2,1,2479,fragile,43
+Athens,Shanghai,5,3,1542,normal,79
+Athens,Shenzhen,1,2,5011,fragile,41
+Athens,Guangzhou,5,1,5351,fragile,73
+Athens,Hong Kong,5,4,6151,normal,87
+Athens,Tokyo,2,4,10412,normal,57
+Athens,Osaka,2,1,4235,fragile,43
+Athens,Busan,5,4,3172,fragile,97
+Athens,Bangkok,1,3,10060,fragile,49
+Athens,Jakarta,3,4,3296,normal,67
+Athens,Dubai,2,3,8458,fragile,59
+Athens,Doha,4,2,8114,normal,61
+Athens,Riyadh,1,2,8773,normal,31
+Athens,Jeddah,2,3,8439,fragile,59
+Athens,Istanbul,2,5,6322,fragile,75
+Athens,Hamburg,1,1,5925,normal,23
+Athens,Rotterdam,1,3,5414,fragile,49
+Athens,Antwerp,1,5,6548,fragile,65
+Athens,London,3,5,4123,normal,75
+Athens,Le Havre,2,4,5921,fragile,67
+Athens,Barcelona,2,4,10319,fragile,67
+Athens,Genoa,3,5,7759,fragile,85
+Athens,Athens,2,1,4183,normal,33
+Athens,New York,3,5,10087,normal,75
+Athens,Los Angeles,3,1,4432,fragile,53
+Athens,San Francisco,5,1,8018,fragile,73
+Athens,Seattle,1,4,10514,normal,47
+Athens,Houston,1,1,2239,normal,23
+Athens,Miami,5,2,1643,fragile,81
+Athens,Vancouver,2,5,5973,normal,65
+Athens,Toronto,3,2,9002,normal,51
+Athens,Montreal,2,3,2546,normal,49
+Athens,Sydney,3,1,6611,normal,43
+Athens,Melbourne,4,2,5122,fragile,71
+Athens,Auckland,5,2,5751,fragile,81
+Athens,Cape Town,3,1,6808,normal,43
+Athens,Durban,4,5,3392,normal,85
+Athens,Lagos,5,3,4089,fragile,89
+Athens,Nairobi,3,4,4220,fragile,77
+Athens,Santos,5,2,9443,normal,71
+Athens,Rio de Janeiro,4,2,2213,fragile,71
+Athens,Buenos Aires,4,5,1270,normal,85
+Athens,Lima,4,1,3121,fragile,63
+Athens,Panama City,2,5,4539,normal,65
+Athens,Manila,1,2,8692,normal,31
+Athens,Ho Chi Minh City,5,2,5419,normal,71
+Athens,Kuala Lumpur,1,1,7588,normal,23
+New York,Mumbai,3,3,2962,normal,59
+New York,Chennai,2,4,8323,fragile,67
+New York,Kolkata,2,1,7752,normal,33
+New York,Delhi,4,2,9267,fragile,71
+New York,Visakhapatnam,1,4,5125,normal,47
+New York,Singapore,2,4,4606,normal,57
+New York,Shanghai,5,1,7240,normal,63
+New York,Shenzhen,5,2,1439,normal,71
+New York,Guangzhou,1,5,10823,fragile,65
+New York,Hong Kong,2,3,5028,normal,49
+New York,Tokyo,3,5,11078,fragile,85
+New York,Osaka,1,1,2437,normal,23
+New York,Busan,3,3,6714,fragile,69
+New York,Bangkok,2,2,6410,normal,41
+New York,Jakarta,4,1,11805,normal,53
+New York,Dubai,3,1,2579,fragile,53
+New York,Doha,5,4,2514,fragile,97
+New York,Riyadh,1,4,10735,normal,47
+New York,Jeddah,1,2,3781,normal,31
+New York,Istanbul,1,4,11806,fragile,57
+New York,Hamburg,4,1,10422,fragile,63
+New York,Rotterdam,2,2,4260,normal,41
+New York,Antwerp,1,4,5249,fragile,57
+New York,London,2,3,8222,normal,49
+New York,Le Havre,2,4,5065,fragile,67
+New York,Barcelona,4,1,3240,normal,53
+New York,Genoa,5,2,3125,fragile,81
+New York,Athens,5,5,8348,fragile,105
+New York,New York,3,4,10413,fragile,77
+New York,Los Angeles,3,5,3849,normal,75
+New York,San Francisco,5,4,9003,normal,87
+New York,Seattle,3,2,6686,normal,51
+New York,Houston,4,1,8557,fragile,63
+New York,Miami,4,5,8701,normal,85
+New York,Vancouver,5,4,7024,fragile,97
+New York,Toronto,1,4,9504,fragile,57
+New York,Montreal,4,1,10891,normal,53
+New York,Sydney,3,2,10955,fragile,61
+New York,Melbourne,1,4,1536,normal,47
+New York,Auckland,4,4,5408,normal,77
+New York,Cape Town,3,5,10290,fragile,85
+New York,Durban,4,1,2601,fragile,63
+New York,Lagos,3,1,2886,normal,43
+New York,Nairobi,1,2,2293,normal,31
+New York,Santos,5,1,2552,fragile,73
+New York,Rio de Janeiro,5,4,7314,fragile,97
+New York,Buenos Aires,4,3,4463,normal,69
+New York,Lima,2,1,7481,fragile,43
+New York,Panama City,2,3,11266,fragile,59
+New York,Manila,2,4,8496,fragile,67
+New York,Ho Chi Minh City,4,4,10675,fragile,87
+New York,Kuala Lumpur,2,3,9303,normal,49
+Los Angeles,Mumbai,1,3,3506,fragile,49
+Los Angeles,Chennai,1,1,5782,fragile,33
+Los Angeles,Kolkata,3,3,1919,normal,59
+Los Angeles,Delhi,5,4,7112,fragile,97
+Los Angeles,Visakhapatnam,4,2,3250,fragile,71
+Los Angeles,Singapore,3,4,7516,fragile,77
+Los Angeles,Shanghai,4,3,4113,normal,69
+Los Angeles,Shenzhen,5,3,3864,fragile,89
+Los Angeles,Guangzhou,2,3,9575,fragile,59
+Los Angeles,Hong Kong,2,2,9691,fragile,51
+Los Angeles,Tokyo,3,1,6799,normal,43
+Los Angeles,Osaka,1,1,3110,normal,23
+Los Angeles,Busan,1,1,4266,fragile,33
+Los Angeles,Bangkok,5,3,2079,fragile,89
+Los Angeles,Jakarta,3,4,4988,fragile,77
+Los Angeles,Dubai,4,2,1776,fragile,71
+Los Angeles,Doha,5,1,8449,normal,63
+Los Angeles,Riyadh,3,1,7409,normal,43
+Los Angeles,Jeddah,2,2,11348,normal,41
+Los Angeles,Istanbul,5,4,9827,fragile,97
+Los Angeles,Hamburg,3,1,7995,normal,43
+Los Angeles,Rotterdam,1,5,8681,fragile,65
+Los Angeles,Antwerp,4,1,10021,fragile,63
+Los Angeles,London,3,3,10371,normal,59
+Los Angeles,Le Havre,2,4,9794,fragile,67
+Los Angeles,Barcelona,3,1,5917,normal,43
+Los Angeles,Genoa,2,3,8765,fragile,59
+Los Angeles,Athens,2,4,11183,fragile,67
+Los Angeles,New York,5,3,1819,normal,79
+Los Angeles,Los Angeles,1,5,7433,normal,55
+Los Angeles,San Francisco,5,5,6667,normal,95
+Los Angeles,Seattle,4,3,2074,normal,69
+Los Angeles,Houston,2,3,7031,normal,49
+Los Angeles,Miami,4,5,4034,normal,85
+Los Angeles,Vancouver,2,4,11917,normal,57
+Los Angeles,Toronto,1,3,7762,normal,39
+Los Angeles,Montreal,5,5,6134,normal,95
+Los Angeles,Sydney,1,5,5236,fragile,65
+Los Angeles,Melbourne,4,3,8634,fragile,79
+Los Angeles,Auckland,2,2,4713,fragile,51
+Los Angeles,Cape Town,1,5,1483,fragile,65
+Los Angeles,Durban,4,5,2587,normal,85
+Los Angeles,Lagos,4,1,1425,fragile,63
+Los Angeles,Nairobi,2,2,9839,fragile,51
+Los Angeles,Santos,4,1,11603,fragile,63
+Los Angeles,Rio de Janeiro,4,2,4815,normal,61
+Los Angeles,Buenos Aires,2,3,2044,fragile,59
+Los Angeles,Lima,2,2,8602,fragile,51
+Los Angeles,Panama City,5,5,11325,fragile,105
+Los Angeles,Manila,5,1,8897,fragile,73
+Los Angeles,Ho Chi Minh City,3,3,2513,normal,59
+Los Angeles,Kuala Lumpur,4,5,2317,fragile,95
+San Francisco,Mumbai,5,5,8694,normal,95
+San Francisco,Chennai,5,4,5941,fragile,97
+San Francisco,Kolkata,4,4,10182,normal,77
+San Francisco,Delhi,2,1,11804,normal,33
+San Francisco,Visakhapatnam,3,3,8127,fragile,69
+San Francisco,Singapore,3,5,2333,fragile,85
+San Francisco,Shanghai,1,5,10832,normal,55
+San Francisco,Shenzhen,4,3,3274,fragile,79
+San Francisco,Guangzhou,5,3,8701,normal,79
+San Francisco,Hong Kong,2,4,10163,normal,57
+San Francisco,Tokyo,5,1,2774,normal,63
+San Francisco,Osaka,5,3,8663,normal,79
+San Francisco,Busan,3,3,9352,normal,59
+San Francisco,Bangkok,2,3,2437,normal,49
+San Francisco,Jakarta,1,3,2531,normal,39
+San Francisco,Dubai,1,2,11834,fragile,41
+San Francisco,Doha,3,3,6275,fragile,69
+San Francisco,Riyadh,3,4,2894,normal,67
+San Francisco,Jeddah,4,3,8340,fragile,79
+San Francisco,Istanbul,4,3,10555,normal,69
+San Francisco,Hamburg,3,2,11628,normal,51
+San Francisco,Rotterdam,3,5,4816,fragile,85
+San Francisco,Antwerp,2,4,8484,normal,57
+San Francisco,London,5,5,10740,fragile,105
+San Francisco,Le Havre,3,3,7299,normal,59
+San Francisco,Barcelona,3,1,6636,fragile,53
+San Francisco,Genoa,1,4,6620,fragile,57
+San Francisco,Athens,4,3,5792,normal,69
+San Francisco,New York,2,3,2605,fragile,59
+San Francisco,Los Angeles,4,3,8415,normal,69
+San Francisco,San Francisco,5,4,5477,normal,87
+San Francisco,Seattle,4,5,6956,fragile,95
+San Francisco,Houston,2,2,7502,normal,41
+San Francisco,Miami,3,5,8584,normal,75
+San Francisco,Vancouver,5,3,1703,fragile,89
+San Francisco,Toronto,3,1,4723,fragile,53
+San Francisco,Montreal,5,5,11302,normal,95
+San Francisco,Sydney,2,3,11781,fragile,59
+San Francisco,Melbourne,4,2,11007,normal,61
+San Francisco,Auckland,2,5,7305,normal,65
+San Francisco,Cape Town,1,1,3799,normal,23
+San Francisco,Durban,2,5,8711,normal,65
+San Francisco,Lagos,4,5,1167,normal,85
+San Francisco,Nairobi,5,4,4371,normal,87
+San Francisco,Santos,5,3,6989,fragile,89
+San Francisco,Rio de Janeiro,5,3,1673,normal,79
+San Francisco,Buenos Aires,3,3,9645,normal,59
+San Francisco,Lima,4,2,3966,fragile,71
+San Francisco,Panama City,3,3,1471,fragile,69
+San Francisco,Manila,3,5,11097,normal,75
+San Francisco,Ho Chi Minh City,1,1,10063,fragile,33
+San Francisco,Kuala Lumpur,1,4,6089,normal,47
+Seattle,Mumbai,1,1,2680,fragile,33
+Seattle,Chennai,5,2,9368,normal,71
+Seattle,Kolkata,5,1,5615,fragile,73
+Seattle,Delhi,4,1,6899,normal,53
+Seattle,Visakhapatnam,3,1,9999,normal,43
+Seattle,Singapore,2,4,8632,fragile,67
+Seattle,Shanghai,1,3,7244,normal,39
+Seattle,Shenzhen,4,3,9965,normal,69
+Seattle,Guangzhou,1,4,9266,normal,47
+Seattle,Hong Kong,5,4,11614,normal,87
+Seattle,Tokyo,5,2,5601,normal,71
+Seattle,Osaka,2,4,8985,normal,57
+Seattle,Busan,2,1,7606,normal,33
+Seattle,Bangkok,1,1,2588,fragile,33
+Seattle,Jakarta,2,5,3481,normal,65
+Seattle,Dubai,1,2,10913,fragile,41
+Seattle,Doha,5,3,4196,fragile,89
+Seattle,Riyadh,3,2,2837,normal,51
+Seattle,Jeddah,2,2,5280,normal,41
+Seattle,Istanbul,4,3,10500,fragile,79
+Seattle,Hamburg,5,2,4876,normal,71
+Seattle,Rotterdam,2,5,1279,normal,65
+Seattle,Antwerp,1,4,2687,normal,47
+Seattle,London,4,3,9297,normal,69
+Seattle,Le Havre,5,1,3238,fragile,73
+Seattle,Barcelona,5,3,4208,fragile,89
+Seattle,Genoa,5,1,4812,normal,63
+Seattle,Athens,5,4,7642,fragile,97
+Seattle,New York,3,1,8201,normal,43
+Seattle,Los Angeles,1,2,11126,normal,31
+Seattle,San Francisco,2,3,2101,fragile,59
+Seattle,Seattle,5,5,4526,fragile,105
+Seattle,Houston,5,2,7546,fragile,81
+Seattle,Miami,1,4,8893,fragile,57
+Seattle,Vancouver,2,1,3847,normal,33
+Seattle,Toronto,3,4,1450,normal,67
+Seattle,Montreal,5,1,11881,normal,63
+Seattle,Sydney,1,3,5636,normal,39
+Seattle,Melbourne,2,3,3008,normal,49
+Seattle,Auckland,3,3,5199,normal,59
+Seattle,Cape Town,3,3,5583,fragile,69
+Seattle,Durban,5,5,7330,normal,95
+Seattle,Lagos,1,2,2108,normal,31
+Seattle,Nairobi,3,4,7421,fragile,77
+Seattle,Santos,5,2,11750,normal,71
+Seattle,Rio de Janeiro,2,2,6839,normal,41
+Seattle,Buenos Aires,1,3,11362,fragile,49
+Seattle,Lima,4,2,8530,fragile,71
+Seattle,Panama City,3,3,10425,fragile,69
+Seattle,Manila,2,1,11003,fragile,43
+Seattle,Ho Chi Minh City,3,4,2933,normal,67
+Seattle,Kuala Lumpur,3,5,10578,fragile,85
+Houston,Mumbai,4,3,7386,fragile,79
+Houston,Chennai,4,2,6837,fragile,71
+Houston,Kolkata,3,2,11350,fragile,61
+Houston,Delhi,5,4,2971,fragile,97
+Houston,Visakhapatnam,2,1,7165,fragile,43
+Houston,Singapore,4,1,7589,fragile,63
+Houston,Shanghai,5,5,3101,normal,95
+Houston,Shenzhen,4,5,7594,normal,85
+Houston,Guangzhou,2,4,8821,normal,57
+Houston,Hong Kong,5,1,10153,fragile,73
+Houston,Tokyo,2,4,7821,fragile,67
+Houston,Osaka,5,1,2019,normal,63
+Houston,Busan,4,5,10239,normal,85
+Houston,Bangkok,2,2,3512,fragile,51
+Houston,Jakarta,2,1,6141,normal,33
+Houston,Dubai,2,4,7881,normal,57
+Houston,Doha,4,3,3507,fragile,79
+Houston,Riyadh,2,4,6928,normal,57
+Houston,Jeddah,2,5,9079,fragile,75
+Houston,Istanbul,1,3,2469,normal,39
+Houston,Hamburg,4,3,8883,fragile,79
+Houston,Rotterdam,2,3,11237,fragile,59
+Houston,Antwerp,4,1,2065,normal,53
+Houston,London,3,5,2427,normal,75
+Houston,Le Havre,4,2,2745,normal,61
+Houston,Barcelona,4,1,4094,fragile,63
+Houston,Genoa,3,3,2544,normal,59
+Houston,Athens,1,4,2832,normal,47
+Houston,New York,2,5,4709,fragile,75
+Houston,Los Angeles,4,3,2717,normal,69
+Houston,San Francisco,3,5,11085,normal,75
+Houston,Seattle,5,1,10134,fragile,73
+Houston,Houston,2,4,2519,normal,57
+Houston,Miami,2,3,3632,fragile,59
+Houston,Vancouver,2,5,11459,normal,65
+Houston,Toronto,2,5,4009,normal,65
+Houston,Montreal,2,1,7619,normal,33
+Houston,Sydney,5,2,6292,normal,71
+Houston,Melbourne,1,2,5244,fragile,41
+Houston,Auckland,2,1,2127,normal,33
+Houston,Cape Town,2,4,8712,normal,57
+Houston,Durban,3,1,10464,fragile,53
+Houston,Lagos,2,4,9103,fragile,67
+Houston,Nairobi,3,5,2840,normal,75
+Houston,Santos,3,3,9465,normal,59
+Houston,Rio de Janeiro,3,1,9990,fragile,53
+Houston,Buenos Aires,3,3,2083,fragile,69
+Houston,Lima,4,5,1919,normal,85
+Houston,Panama City,2,1,6083,normal,33
+Houston,Manila,5,5,5718,normal,95
+Houston,Ho Chi Minh City,2,5,10501,normal,65
+Houston,Kuala Lumpur,4,3,7769,normal,69
+Miami,Mumbai,1,1,1916,fragile,33
+Miami,Chennai,2,3,1509,normal,49
+Miami,Kolkata,2,1,8655,fragile,43
+Miami,Delhi,1,4,5128,fragile,57
+Miami,Visakhapatnam,1,2,8997,fragile,41
+Miami,Singapore,3,4,2169,normal,67
+Miami,Shanghai,1,5,10327,fragile,65
+Miami,Shenzhen,3,3,6631,fragile,69
+Miami,Guangzhou,4,5,6170,fragile,95
+Miami,Hong Kong,5,4,11099,fragile,97
+Miami,Tokyo,2,1,5403,normal,33
+Miami,Osaka,1,1,6869,fragile,33
+Miami,Busan,4,1,8062,normal,53
+Miami,Bangkok,3,4,4702,fragile,77
+Miami,Jakarta,3,3,11441,normal,59
+Miami,Dubai,2,1,10912,fragile,43
+Miami,Doha,4,2,5059,fragile,71
+Miami,Riyadh,3,2,7241,fragile,61
+Miami,Jeddah,4,5,8850,normal,85
+Miami,Istanbul,4,5,10605,normal,85
+Miami,Hamburg,1,5,7977,normal,55
+Miami,Rotterdam,1,1,11404,fragile,33
+Miami,Antwerp,1,4,3085,normal,47
+Miami,London,4,1,3969,fragile,63
+Miami,Le Havre,5,5,6140,normal,95
+Miami,Barcelona,2,5,11749,fragile,75
+Miami,Genoa,1,1,6602,normal,23
+Miami,Athens,4,5,9306,normal,85
+Miami,New York,5,3,5608,normal,79
+Miami,Los Angeles,2,3,1878,normal,49
+Miami,San Francisco,2,2,11992,normal,41
+Miami,Seattle,5,3,3009,fragile,89
+Miami,Houston,2,2,4430,fragile,51
+Miami,Miami,1,4,7277,normal,47
+Miami,Vancouver,5,5,10832,normal,95
+Miami,Toronto,1,2,6261,normal,31
+Miami,Montreal,5,2,9589,fragile,81
+Miami,Sydney,4,1,7063,normal,53
+Miami,Melbourne,5,5,10402,normal,95
+Miami,Auckland,5,1,6196,fragile,73
+Miami,Cape Town,4,5,7098,fragile,95
+Miami,Durban,5,2,10392,normal,71
+Miami,Lagos,4,3,8288,fragile,79
+Miami,Nairobi,5,4,2782,fragile,97
+Miami,Santos,3,3,8747,fragile,69
+Miami,Rio de Janeiro,2,2,5641,fragile,51
+Miami,Buenos Aires,3,1,5090,normal,43
+Miami,Lima,4,4,10092,fragile,87
+Miami,Panama City,5,5,8624,normal,95
+Miami,Manila,5,1,8034,fragile,73
+Miami,Ho Chi Minh City,3,4,6157,normal,67
+Miami,Kuala Lumpur,3,3,9935,normal,59
+Vancouver,Mumbai,2,2,11118,normal,41
+Vancouver,Chennai,3,3,5207,fragile,69
+Vancouver,Kolkata,3,2,5386,normal,51
+Vancouver,Delhi,2,2,1676,fragile,51
+Vancouver,Visakhapatnam,3,4,2641,fragile,77
+Vancouver,Singapore,2,1,4653,fragile,43
+Vancouver,Shanghai,4,1,3244,normal,53
+Vancouver,Shenzhen,3,5,9844,fragile,85
+Vancouver,Guangzhou,1,4,7785,fragile,57
+Vancouver,Hong Kong,2,2,8856,normal,41
+Vancouver,Tokyo,2,1,1324,normal,33
+Vancouver,Osaka,2,4,4497,fragile,67
+Vancouver,Busan,5,5,3886,fragile,105
+Vancouver,Bangkok,5,4,2267,fragile,97
+Vancouver,Jakarta,2,2,4228,fragile,51
+Vancouver,Dubai,1,2,4365,normal,31
+Vancouver,Doha,5,3,9462,fragile,89
+Vancouver,Riyadh,1,1,5648,normal,23
+Vancouver,Jeddah,5,3,5093,fragile,89
+Vancouver,Istanbul,1,2,2386,fragile,41
+Vancouver,Hamburg,4,2,4740,normal,61
+Vancouver,Rotterdam,5,5,10706,normal,95
+Vancouver,Antwerp,2,1,6542,normal,33
+Vancouver,London,2,2,8961,normal,41
+Vancouver,Le Havre,2,4,5254,normal,57
+Vancouver,Barcelona,5,3,1720,fragile,89
+Vancouver,Genoa,4,5,8667,normal,85
+Vancouver,Athens,1,3,10044,normal,39
+Vancouver,New York,4,3,3616,normal,69
+Vancouver,Los Angeles,5,2,4298,fragile,81
+Vancouver,San Francisco,1,5,5126,fragile,65
+Vancouver,Seattle,1,5,5824,normal,55
+Vancouver,Houston,3,3,7931,normal,59
+Vancouver,Miami,4,1,6445,fragile,63
+Vancouver,Vancouver,3,1,8396,fragile,53
+Vancouver,Toronto,2,3,6856,normal,49
+Vancouver,Montreal,1,3,2348,normal,39
+Vancouver,Sydney,5,2,4551,normal,71
+Vancouver,Melbourne,3,5,9495,normal,75
+Vancouver,Auckland,3,2,9588,normal,51
+Vancouver,Cape Town,1,5,4922,fragile,65
+Vancouver,Durban,3,3,1197,fragile,69
+Vancouver,Lagos,5,3,7714,fragile,89
+Vancouver,Nairobi,5,2,1430,fragile,81
+Vancouver,Santos,1,3,4204,normal,39
+Vancouver,Rio de Janeiro,4,5,6238,normal,85
+Vancouver,Buenos Aires,2,4,7987,fragile,67
+Vancouver,Lima,5,2,2771,normal,71
+Vancouver,Panama City,2,3,11197,normal,49
+Vancouver,Manila,3,5,7923,normal,75
+Vancouver,Ho Chi Minh City,2,2,5735,normal,41
+Vancouver,Kuala Lumpur,5,4,2665,normal,87
+Toronto,Mumbai,1,1,9498,normal,23
+Toronto,Chennai,5,3,5324,fragile,89
+Toronto,Kolkata,5,4,5281,fragile,97
+Toronto,Delhi,3,3,8617,normal,59
+Toronto,Visakhapatnam,4,2,7529,normal,61
+Toronto,Singapore,5,1,4104,fragile,73
+Toronto,Shanghai,3,2,2279,normal,51
+Toronto,Shenzhen,3,5,8019,fragile,85
+Toronto,Guangzhou,1,1,11801,normal,23
+Toronto,Hong Kong,1,4,11770,fragile,57
+Toronto,Tokyo,3,2,3230,normal,51
+Toronto,Osaka,1,5,9655,normal,55
+Toronto,Busan,2,3,10952,fragile,59
+Toronto,Bangkok,5,4,4423,normal,87
+Toronto,Jakarta,5,5,9010,normal,95
+Toronto,Dubai,5,3,4168,normal,79
+Toronto,Doha,1,5,1493,normal,55
+Toronto,Riyadh,2,5,8057,fragile,75
+Toronto,Jeddah,3,3,4395,fragile,69
+Toronto,Istanbul,2,1,10614,normal,33
+Toronto,Hamburg,3,4,8318,normal,67
+Toronto,Rotterdam,5,5,6461,fragile,105
+Toronto,Antwerp,2,2,5386,normal,41
+Toronto,London,3,1,3695,fragile,53
+Toronto,Le Havre,3,1,8111,normal,43
+Toronto,Barcelona,5,3,3344,fragile,89
+Toronto,Genoa,3,4,7220,fragile,77
+Toronto,Athens,5,1,2959,fragile,73
+Toronto,New York,3,1,7055,normal,43
+Toronto,Los Angeles,5,3,10468,normal,79
+Toronto,San Francisco,2,2,8164,normal,41
+Toronto,Seattle,1,5,9407,normal,55
+Toronto,Houston,4,1,3618,fragile,63
+Toronto,Miami,2,2,7007,fragile,51
+Toronto,Vancouver,5,2,10831,fragile,81
+Toronto,Toronto,5,4,9040,normal,87
+Toronto,Montreal,5,1,8876,normal,63
+Toronto,Sydney,5,5,4639,normal,95
+Toronto,Melbourne,2,1,2583,normal,33
+Toronto,Auckland,2,3,6166,normal,49
+Toronto,Cape Town,1,2,6971,normal,31
+Toronto,Durban,1,2,4341,fragile,41
+Toronto,Lagos,4,5,1559,normal,85
+Toronto,Nairobi,2,1,4624,normal,33
+Toronto,Santos,4,3,2130,fragile,79
+Toronto,Rio de Janeiro,1,3,5068,fragile,49
+Toronto,Buenos Aires,2,4,7075,normal,57
+Toronto,Lima,4,1,3645,fragile,63
+Toronto,Panama City,2,2,5225,normal,41
+Toronto,Manila,2,2,11188,fragile,51
+Toronto,Ho Chi Minh City,3,1,4410,fragile,53
+Toronto,Kuala Lumpur,3,2,8417,normal,51
+Montreal,Mumbai,4,1,2831,normal,53
+Montreal,Chennai,5,5,9077,normal,95
+Montreal,Kolkata,5,5,5496,normal,95
+Montreal,Delhi,1,4,4004,fragile,57
+Montreal,Visakhapatnam,1,1,1864,normal,23
+Montreal,Singapore,5,3,8110,normal,79
+Montreal,Shanghai,5,2,10988,fragile,81
+Montreal,Shenzhen,3,2,6736,normal,51
+Montreal,Guangzhou,1,5,6329,fragile,65
+Montreal,Hong Kong,1,4,11587,normal,47
+Montreal,Tokyo,5,1,2765,fragile,73
+Montreal,Osaka,3,2,11926,fragile,61
+Montreal,Busan,4,1,2673,fragile,63
+Montreal,Bangkok,5,1,2884,normal,63
+Montreal,Jakarta,1,3,5966,normal,39
+Montreal,Dubai,4,3,8294,normal,69
+Montreal,Doha,2,5,10437,normal,65
+Montreal,Riyadh,2,1,4224,fragile,43
+Montreal,Jeddah,3,1,4417,fragile,53
+Montreal,Istanbul,2,1,4842,fragile,43
+Montreal,Hamburg,3,5,1122,fragile,85
+Montreal,Rotterdam,4,3,10911,fragile,79
+Montreal,Antwerp,1,5,3669,normal,55
+Montreal,London,3,2,6556,fragile,61
+Montreal,Le Havre,3,2,8599,normal,51
+Montreal,Barcelona,4,4,9052,fragile,87
+Montreal,Genoa,2,1,5787,normal,33
+Montreal,Athens,1,4,5157,fragile,57
+Montreal,New York,5,1,11878,fragile,73
+Montreal,Los Angeles,4,4,7086,normal,77
+Montreal,San Francisco,5,4,5536,normal,87
+Montreal,Seattle,4,3,7282,normal,69
+Montreal,Houston,1,3,1288,normal,39
+Montreal,Miami,1,1,9427,normal,23
+Montreal,Vancouver,3,5,5723,fragile,85
+Montreal,Toronto,3,5,10268,normal,75
+Montreal,Montreal,2,1,4765,normal,33
+Montreal,Sydney,3,4,1655,fragile,77
+Montreal,Melbourne,2,5,1010,normal,65
+Montreal,Auckland,3,1,6064,normal,43
+Montreal,Cape Town,3,1,5235,fragile,53
+Montreal,Durban,2,4,2681,fragile,67
+Montreal,Lagos,4,4,3876,normal,77
+Montreal,Nairobi,3,5,6046,fragile,85
+Montreal,Santos,3,2,11039,fragile,61
+Montreal,Rio de Janeiro,4,5,5568,fragile,95
+Montreal,Buenos Aires,4,1,3659,fragile,63
+Montreal,Lima,4,1,4617,normal,53
+Montreal,Panama City,1,2,1841,fragile,41
+Montreal,Manila,3,3,2589,normal,59
+Montreal,Ho Chi Minh City,3,5,9558,fragile,85
+Montreal,Kuala Lumpur,2,2,10290,fragile,51
+Sydney,Mumbai,2,3,8806,fragile,59
+Sydney,Chennai,3,1,2689,fragile,53
+Sydney,Kolkata,3,3,10060,normal,59
+Sydney,Delhi,5,5,9012,fragile,105
+Sydney,Visakhapatnam,1,5,2671,fragile,65
+Sydney,Singapore,3,4,3535,fragile,77
+Sydney,Shanghai,5,4,6727,normal,87
+Sydney,Shenzhen,2,4,11417,fragile,67
+Sydney,Guangzhou,3,3,10041,normal,59
+Sydney,Hong Kong,5,4,11782,normal,87
+Sydney,Tokyo,1,1,3259,normal,23
+Sydney,Osaka,4,1,2742,normal,53
+Sydney,Busan,4,4,4212,normal,77
+Sydney,Bangkok,3,2,11545,normal,51
+Sydney,Jakarta,2,2,5672,fragile,51
+Sydney,Dubai,4,4,4320,normal,77
+Sydney,Doha,2,1,4808,normal,33
+Sydney,Riyadh,2,4,8744,fragile,67
+Sydney,Jeddah,1,5,3835,normal,55
+Sydney,Istanbul,4,2,1936,normal,61
+Sydney,Hamburg,1,5,3161,normal,55
+Sydney,Rotterdam,5,1,3016,fragile,73
+Sydney,Antwerp,2,5,1917,fragile,75
+Sydney,London,3,3,4985,normal,59
+Sydney,Le Havre,4,1,7080,normal,53
+Sydney,Barcelona,2,4,4938,normal,57
+Sydney,Genoa,5,5,3784,normal,95
+Sydney,Athens,5,1,4316,fragile,73
+Sydney,New York,2,1,3542,normal,33
+Sydney,Los Angeles,1,1,5615,fragile,33
+Sydney,San Francisco,3,4,2887,normal,67
+Sydney,Seattle,4,1,3919,fragile,63
+Sydney,Houston,3,4,5003,normal,67
+Sydney,Miami,4,3,11153,normal,69
+Sydney,Vancouver,2,2,7220,normal,41
+Sydney,Toronto,1,4,8290,fragile,57
+Sydney,Montreal,1,2,7089,normal,31
+Sydney,Sydney,2,1,5301,fragile,43
+Sydney,Melbourne,2,3,9461,normal,49
+Sydney,Auckland,3,3,7838,normal,59
+Sydney,Cape Town,1,3,1576,normal,39
+Sydney,Durban,3,2,10081,normal,51
+Sydney,Lagos,4,1,10356,fragile,63
+Sydney,Nairobi,5,3,6434,fragile,89
+Sydney,Santos,5,5,10651,normal,95
+Sydney,Rio de Janeiro,1,3,6734,normal,39
+Sydney,Buenos Aires,1,5,6020,fragile,65
+Sydney,Lima,3,4,3380,normal,67
+Sydney,Panama City,1,2,2075,fragile,41
+Sydney,Manila,2,2,7908,normal,41
+Sydney,Ho Chi Minh City,3,1,6439,normal,43
+Sydney,Kuala Lumpur,5,1,4401,normal,63
+Melbourne,Mumbai,2,3,8575,fragile,59
+Melbourne,Chennai,4,3,6205,fragile,79
+Melbourne,Kolkata,3,4,8475,fragile,77
+Melbourne,Delhi,4,5,3954,fragile,95
+Melbourne,Visakhapatnam,1,1,5650,normal,23
+Melbourne,Singapore,3,5,11632,normal,75
+Melbourne,Shanghai,5,4,4304,normal,87
+Melbourne,Shenzhen,3,1,5324,normal,43
+Melbourne,Guangzhou,3,2,6946,normal,51
+Melbourne,Hong Kong,3,1,9977,fragile,53
+Melbourne,Tokyo,1,2,11482,normal,31
+Melbourne,Osaka,4,2,2490,normal,61
+Melbourne,Busan,5,5,10651,fragile,105
+Melbourne,Bangkok,3,1,10251,normal,43
+Melbourne,Jakarta,3,4,1954,normal,67
+Melbourne,Dubai,5,2,5460,normal,71
+Melbourne,Doha,3,2,8561,normal,51
+Melbourne,Riyadh,1,1,8061,normal,23
+Melbourne,Jeddah,3,5,2568,normal,75
+Melbourne,Istanbul,2,3,8914,fragile,59
+Melbourne,Hamburg,4,3,8966,fragile,79
+Melbourne,Rotterdam,4,1,3420,fragile,63
+Melbourne,Antwerp,5,1,5040,fragile,73
+Melbourne,London,1,2,5445,fragile,41
+Melbourne,Le Havre,5,3,7243,fragile,89
+Melbourne,Barcelona,5,4,4347,normal,87
+Melbourne,Genoa,4,2,3269,fragile,71
+Melbourne,Athens,4,4,2952,normal,77
+Melbourne,New York,1,2,6413,normal,31
+Melbourne,Los Angeles,5,2,3371,normal,71
+Melbourne,San Francisco,4,3,1251,normal,69
+Melbourne,Seattle,3,1,9366,fragile,53
+Melbourne,Houston,5,5,5222,normal,95
+Melbourne,Miami,2,5,4701,fragile,75
+Melbourne,Vancouver,4,5,3833,normal,85
+Melbourne,Toronto,3,2,7217,fragile,61
+Melbourne,Montreal,4,3,5507,fragile,79
+Melbourne,Sydney,4,1,9479,normal,53
+Melbourne,Melbourne,2,4,7587,fragile,67
+Melbourne,Auckland,1,5,3722,normal,55
+Melbourne,Cape Town,1,4,3439,normal,47
+Melbourne,Durban,1,4,4415,normal,47
+Melbourne,Lagos,5,2,2512,normal,71
+Melbourne,Nairobi,5,5,7180,normal,95
+Melbourne,Santos,2,2,8992,fragile,51
+Melbourne,Rio de Janeiro,4,3,11028,normal,69
+Melbourne,Buenos Aires,1,3,9330,fragile,49
+Melbourne,Lima,2,3,1790,normal,49
+Melbourne,Panama City,2,1,8872,normal,33
+Melbourne,Manila,2,1,10239,fragile,43
+Melbourne,Ho Chi Minh City,1,2,11132,fragile,41
+Melbourne,Kuala Lumpur,5,1,10554,normal,63
+Auckland,Mumbai,4,1,4424,normal,53
+Auckland,Chennai,5,1,7483,fragile,73
+Auckland,Kolkata,4,2,4429,fragile,71
+Auckland,Delhi,3,1,8518,normal,43
+Auckland,Visakhapatnam,3,1,8952,fragile,53
+Auckland,Singapore,5,3,6961,normal,79
+Auckland,Shanghai,1,5,8485,normal,55
+Auckland,Shenzhen,1,5,3511,fragile,65
+Auckland,Guangzhou,4,1,2358,fragile,63
+Auckland,Hong Kong,4,4,6628,normal,77
+Auckland,Tokyo,3,1,2428,fragile,53
+Auckland,Osaka,5,1,4943,normal,63
+Auckland,Busan,4,3,1727,normal,69
+Auckland,Bangkok,2,2,7659,fragile,51
+Auckland,Jakarta,5,4,3780,normal,87
+Auckland,Dubai,3,4,10427,normal,67
+Auckland,Doha,3,4,11778,fragile,77
+Auckland,Riyadh,1,4,3762,fragile,57
+Auckland,Jeddah,5,3,3357,normal,79
+Auckland,Istanbul,1,3,9397,fragile,49
+Auckland,Hamburg,3,1,11730,fragile,53
+Auckland,Rotterdam,3,3,9582,fragile,69
+Auckland,Antwerp,4,3,1851,fragile,79
+Auckland,London,3,4,9999,normal,67
+Auckland,Le Havre,3,3,5837,normal,59
+Auckland,Barcelona,3,5,5968,fragile,85
+Auckland,Genoa,4,3,1751,fragile,79
+Auckland,Athens,4,1,1082,fragile,63
+Auckland,New York,4,2,4207,normal,61
+Auckland,Los Angeles,2,5,5892,normal,65
+Auckland,San Francisco,4,5,11528,fragile,95
+Auckland,Seattle,1,5,6521,normal,55
+Auckland,Houston,1,4,6210,fragile,57
+Auckland,Miami,5,1,1550,normal,63
+Auckland,Vancouver,4,3,5094,fragile,79
+Auckland,Toronto,4,1,1616,fragile,63
+Auckland,Montreal,4,5,6308,fragile,95
+Auckland,Sydney,2,4,3682,fragile,67
+Auckland,Melbourne,4,3,4838,fragile,79
+Auckland,Auckland,1,4,2294,fragile,57
+Auckland,Cape Town,3,5,3287,fragile,85
+Auckland,Durban,1,3,1010,fragile,49
+Auckland,Lagos,2,5,10302,normal,65
+Auckland,Nairobi,1,5,5905,normal,55
+Auckland,Santos,3,1,10147,normal,43
+Auckland,Rio de Janeiro,4,4,3933,fragile,87
+Auckland,Buenos Aires,2,3,1323,normal,49
+Auckland,Lima,2,4,8283,fragile,67
+Auckland,Panama City,1,4,5294,fragile,57
+Auckland,Manila,2,5,3693,normal,65
+Auckland,Ho Chi Minh City,5,2,4957,fragile,81
+Auckland,Kuala Lumpur,5,3,9580,fragile,89
+Cape Town,Mumbai,5,4,1308,fragile,97
+Cape Town,Chennai,2,4,4360,normal,57
+Cape Town,Kolkata,1,3,11498,normal,39
+Cape Town,Delhi,2,5,4705,fragile,75
+Cape Town,Visakhapatnam,2,4,1130,normal,57
+Cape Town,Singapore,4,1,6712,fragile,63
+Cape Town,Shanghai,5,1,2448,fragile,73
+Cape Town,Shenzhen,1,4,3015,fragile,57
+Cape Town,Guangzhou,2,5,7006,fragile,75
+Cape Town,Hong Kong,3,3,7279,fragile,69
+Cape Town,Tokyo,5,4,3951,fragile,97
+Cape Town,Osaka,4,1,7853,normal,53
+Cape Town,Busan,5,2,4393,normal,71
+Cape Town,Bangkok,5,3,10912,fragile,89
+Cape Town,Jakarta,1,2,3865,normal,31
+Cape Town,Dubai,1,2,10489,normal,31
+Cape Town,Doha,5,1,6662,normal,63
+Cape Town,Riyadh,4,2,2128,fragile,71
+Cape Town,Jeddah,2,5,10102,normal,65
+Cape Town,Istanbul,1,3,10230,normal,39
+Cape Town,Hamburg,2,3,3348,fragile,59
+Cape Town,Rotterdam,1,3,2616,fragile,49
+Cape Town,Antwerp,1,2,9639,fragile,41
+Cape Town,London,4,4,3638,fragile,87
+Cape Town,Le Havre,4,5,9959,fragile,95
+Cape Town,Barcelona,1,4,5715,fragile,57
+Cape Town,Genoa,3,4,10728,normal,67
+Cape Town,Athens,5,1,3565,normal,63
+Cape Town,New York,1,2,5516,normal,31
+Cape Town,Los Angeles,5,5,11052,normal,95
+Cape Town,San Francisco,1,5,8915,normal,55
+Cape Town,Seattle,2,1,8310,normal,33
+Cape Town,Houston,2,4,1243,fragile,67
+Cape Town,Miami,4,5,4489,fragile,95
+Cape Town,Vancouver,1,1,6285,normal,23
+Cape Town,Toronto,2,1,8825,normal,33
+Cape Town,Montreal,4,1,8592,fragile,63
+Cape Town,Sydney,2,1,5102,normal,33
+Cape Town,Melbourne,1,4,7987,normal,47
+Cape Town,Auckland,4,3,11090,fragile,79
+Cape Town,Cape Town,4,2,1400,fragile,71
+Cape Town,Durban,1,1,7772,normal,23
+Cape Town,Lagos,4,4,9732,fragile,87
+Cape Town,Nairobi,5,4,3263,normal,87
+Cape Town,Santos,2,2,9840,normal,41
+Cape Town,Rio de Janeiro,3,4,7551,fragile,77
+Cape Town,Buenos Aires,2,4,2442,fragile,67
+Cape Town,Lima,5,4,4269,normal,87
+Cape Town,Panama City,3,1,11147,fragile,53
+Cape Town,Manila,1,4,1950,normal,47
+Cape Town,Ho Chi Minh City,4,2,3896,fragile,71
+Cape Town,Kuala Lumpur,2,4,5761,normal,57
+Durban,Mumbai,3,5,2873,normal,75
+Durban,Chennai,5,5,1351,fragile,105
+Durban,Kolkata,5,2,7496,normal,71
+Durban,Delhi,3,3,4381,normal,59
+Durban,Visakhapatnam,1,4,5488,normal,47
+Durban,Singapore,3,4,5518,fragile,77
+Durban,Shanghai,4,5,2363,normal,85
+Durban,Shenzhen,3,2,7896,normal,51
+Durban,Guangzhou,5,1,9850,normal,63
+Durban,Hong Kong,1,1,3890,fragile,33
+Durban,Tokyo,1,1,1455,normal,23
+Durban,Osaka,2,5,5017,normal,65
+Durban,Busan,5,3,5006,normal,79
+Durban,Bangkok,2,5,2726,normal,65
+Durban,Jakarta,4,1,7355,normal,53
+Durban,Dubai,1,1,8354,normal,23
+Durban,Doha,3,5,5929,normal,75
+Durban,Riyadh,3,5,4365,fragile,85
+Durban,Jeddah,5,1,1896,fragile,73
+Durban,Istanbul,1,4,3564,normal,47
+Durban,Hamburg,4,1,8834,fragile,63
+Durban,Rotterdam,2,3,9742,fragile,59
+Durban,Antwerp,1,4,3536,fragile,57
+Durban,London,3,1,4231,normal,43
+Durban,Le Havre,5,4,11785,fragile,97
+Durban,Barcelona,1,3,11201,normal,39
+Durban,Genoa,5,2,2632,fragile,81
+Durban,Athens,5,3,3520,fragile,89
+Durban,New York,3,5,9163,fragile,85
+Durban,Los Angeles,2,3,2648,fragile,59
+Durban,San Francisco,1,4,8055,normal,47
+Durban,Seattle,4,2,1168,normal,61
+Durban,Houston,5,2,10234,normal,71
+Durban,Miami,5,1,10563,fragile,73
+Durban,Vancouver,1,3,3791,normal,39
+Durban,Toronto,4,2,5949,fragile,71
+Durban,Montreal,5,2,1337,fragile,81
+Durban,Sydney,5,5,11549,normal,95
+Durban,Melbourne,1,4,9635,fragile,57
+Durban,Auckland,5,5,6577,fragile,105
+Durban,Cape Town,2,1,3458,fragile,43
+Durban,Durban,4,1,4901,normal,53
+Durban,Lagos,4,4,11513,normal,77
+Durban,Nairobi,2,2,7560,normal,41
+Durban,Santos,1,1,10867,fragile,33
+Durban,Rio de Janeiro,5,3,2650,fragile,89
+Durban,Buenos Aires,4,2,8440,normal,61
+Durban,Lima,2,3,11068,normal,49
+Durban,Panama City,2,5,5346,normal,65
+Durban,Manila,1,3,2272,normal,39
+Durban,Ho Chi Minh City,2,5,3715,fragile,75
+Durban,Kuala Lumpur,3,1,8640,fragile,53
+Lagos,Mumbai,2,5,4363,normal,65
+Lagos,Chennai,4,4,10445,fragile,87
+Lagos,Kolkata,4,2,2065,fragile,71
+Lagos,Delhi,3,1,10792,fragile,53
+Lagos,Visakhapatnam,3,3,6941,fragile,69
+Lagos,Singapore,3,1,11444,normal,43
+Lagos,Shanghai,1,1,9398,fragile,33
+Lagos,Shenzhen,4,1,3329,fragile,63
+Lagos,Guangzhou,5,3,1543,fragile,89
+Lagos,Hong Kong,4,5,5352,normal,85
+Lagos,Tokyo,4,4,9894,fragile,87
+Lagos,Osaka,3,1,8778,normal,43
+Lagos,Busan,3,3,6528,fragile,69
+Lagos,Bangkok,3,3,7978,fragile,69
+Lagos,Jakarta,2,2,7582,fragile,51
+Lagos,Dubai,1,5,8778,fragile,65
+Lagos,Doha,3,2,8736,normal,51
+Lagos,Riyadh,2,5,11159,fragile,75
+Lagos,Jeddah,3,1,4209,fragile,53
+Lagos,Istanbul,4,5,10190,normal,85
+Lagos,Hamburg,3,1,7721,normal,43
+Lagos,Rotterdam,4,4,11207,fragile,87
+Lagos,Antwerp,4,4,8214,normal,77
+Lagos,London,2,2,8325,fragile,51
+Lagos,Le Havre,3,3,5495,fragile,69
+Lagos,Barcelona,1,2,1254,fragile,41
+Lagos,Genoa,5,4,11124,normal,87
+Lagos,Athens,5,4,3318,fragile,97
+Lagos,New York,2,5,1267,fragile,75
+Lagos,Los Angeles,2,5,7656,fragile,75
+Lagos,San Francisco,2,1,6316,fragile,43
+Lagos,Seattle,1,3,11010,normal,39
+Lagos,Houston,3,1,3797,normal,43
+Lagos,Miami,2,5,10630,normal,65
+Lagos,Vancouver,4,4,9750,normal,77
+Lagos,Toronto,1,2,6425,normal,31
+Lagos,Montreal,5,2,9320,normal,71
+Lagos,Sydney,3,2,8736,normal,51
+Lagos,Melbourne,2,4,7022,normal,57
+Lagos,Auckland,1,5,6121,fragile,65
+Lagos,Cape Town,5,5,6162,fragile,105
+Lagos,Durban,1,3,11108,fragile,49
+Lagos,Lagos,4,1,9342,fragile,63
+Lagos,Nairobi,2,1,2286,normal,33
+Lagos,Santos,4,1,9463,fragile,63
+Lagos,Rio de Janeiro,2,1,9525,normal,33
+Lagos,Buenos Aires,2,1,11118,normal,33
+Lagos,Lima,5,4,4005,fragile,97
+Lagos,Panama City,4,5,6625,normal,85
+Lagos,Manila,2,3,7764,normal,49
+Lagos,Ho Chi Minh City,2,4,11203,normal,57
+Lagos,Kuala Lumpur,5,4,6435,normal,87
+Nairobi,Mumbai,1,3,5448,normal,39
+Nairobi,Chennai,2,1,9800,normal,33
+Nairobi,Kolkata,1,1,1970,normal,23
+Nairobi,Delhi,1,3,5402,fragile,49
+Nairobi,Visakhapatnam,2,1,1347,normal,33
+Nairobi,Singapore,3,1,6863,normal,43
+Nairobi,Shanghai,4,3,7962,fragile,79
+Nairobi,Shenzhen,4,2,4061,normal,61
+Nairobi,Guangzhou,5,5,11611,normal,95
+Nairobi,Hong Kong,4,4,9628,normal,77
+Nairobi,Tokyo,5,3,4171,fragile,89
+Nairobi,Osaka,3,5,8159,fragile,85
+Nairobi,Busan,2,5,11801,normal,65
+Nairobi,Bangkok,3,2,2919,fragile,61
+Nairobi,Jakarta,4,2,10688,normal,61
+Nairobi,Dubai,3,3,5616,normal,59
+Nairobi,Doha,1,3,9833,normal,39
+Nairobi,Riyadh,3,2,1771,fragile,61
+Nairobi,Jeddah,4,4,7643,fragile,87
+Nairobi,Istanbul,2,2,5906,normal,41
+Nairobi,Hamburg,3,3,7150,normal,59
+Nairobi,Rotterdam,2,5,5073,normal,65
+Nairobi,Antwerp,5,3,3117,normal,79
+Nairobi,London,2,5,6395,fragile,75
+Nairobi,Le Havre,4,2,5023,normal,61
+Nairobi,Barcelona,2,1,9651,fragile,43
+Nairobi,Genoa,2,2,7185,fragile,51
+Nairobi,Athens,3,4,9349,normal,67
+Nairobi,New York,1,4,11300,fragile,57
+Nairobi,Los Angeles,4,5,9038,normal,85
+Nairobi,San Francisco,4,4,2001,normal,77
+Nairobi,Seattle,2,2,10619,fragile,51
+Nairobi,Houston,4,4,7781,fragile,87
+Nairobi,Miami,5,1,6845,fragile,73
+Nairobi,Vancouver,5,3,11727,fragile,89
+Nairobi,Toronto,3,5,1354,normal,75
+Nairobi,Montreal,5,2,6508,fragile,81
+Nairobi,Sydney,4,1,3920,normal,53
+Nairobi,Melbourne,1,3,10064,normal,39
+Nairobi,Auckland,1,5,7769,normal,55
+Nairobi,Cape Town,1,3,11733,fragile,49
+Nairobi,Durban,2,4,7216,normal,57
+Nairobi,Lagos,2,1,7739,fragile,43
+Nairobi,Nairobi,5,2,9986,normal,71
+Nairobi,Santos,2,5,8391,fragile,75
+Nairobi,Rio de Janeiro,1,5,5488,fragile,65
+Nairobi,Buenos Aires,2,2,3376,fragile,51
+Nairobi,Lima,2,3,6783,fragile,59
+Nairobi,Panama City,5,5,11813,normal,95
+Nairobi,Manila,5,4,8735,fragile,97
+Nairobi,Ho Chi Minh City,1,5,9641,normal,55
+Nairobi,Kuala Lumpur,3,4,5007,fragile,77
+Santos,Mumbai,3,3,3536,normal,59
+Santos,Chennai,1,5,6900,normal,55
+Santos,Kolkata,1,3,10218,fragile,49
+Santos,Delhi,3,1,4875,fragile,53
+Santos,Visakhapatnam,3,1,9470,normal,43
+Santos,Singapore,5,5,2182,normal,95
+Santos,Shanghai,3,5,8119,fragile,85
+Santos,Shenzhen,5,4,10429,normal,87
+Santos,Guangzhou,1,2,2888,fragile,41
+Santos,Hong Kong,5,3,3969,normal,79
+Santos,Tokyo,2,2,1007,normal,41
+Santos,Osaka,2,3,10158,normal,49
+Santos,Busan,5,1,10779,fragile,73
+Santos,Bangkok,4,2,7243,normal,61
+Santos,Jakarta,2,2,4669,fragile,51
+Santos,Dubai,3,5,10285,fragile,85
+Santos,Doha,1,2,1883,fragile,41
+Santos,Riyadh,3,2,7876,fragile,61
+Santos,Jeddah,1,1,8235,fragile,33
+Santos,Istanbul,3,4,3231,fragile,77
+Santos,Hamburg,4,4,3828,fragile,87
+Santos,Rotterdam,2,3,5467,fragile,59
+Santos,Antwerp,5,3,6874,fragile,89
+Santos,London,5,2,3384,normal,71
+Santos,Le Havre,3,5,5391,fragile,85
+Santos,Barcelona,1,4,4341,normal,47
+Santos,Genoa,5,4,10741,normal,87
+Santos,Athens,4,5,7243,fragile,95
+Santos,New York,2,2,10595,normal,41
+Santos,Los Angeles,2,1,8632,fragile,43
+Santos,San Francisco,4,5,11680,fragile,95
+Santos,Seattle,5,2,8853,fragile,81
+Santos,Houston,4,4,1733,normal,77
+Santos,Miami,1,4,9168,normal,47
+Santos,Vancouver,5,1,5726,normal,63
+Santos,Toronto,2,5,1973,fragile,75
+Santos,Montreal,1,1,1825,normal,23
+Santos,Sydney,5,4,4025,normal,87
+Santos,Melbourne,1,4,6520,fragile,57
+Santos,Auckland,1,2,4539,fragile,41
+Santos,Cape Town,1,3,10956,normal,39
+Santos,Durban,1,1,6328,fragile,33
+Santos,Lagos,4,2,5521,normal,61
+Santos,Nairobi,1,4,2851,fragile,57
+Santos,Santos,1,4,7822,fragile,57
+Santos,Rio de Janeiro,3,1,7165,normal,43
+Santos,Buenos Aires,3,3,4753,normal,59
+Santos,Lima,1,1,9239,normal,23
+Santos,Panama City,4,5,9900,normal,85
+Santos,Manila,5,3,1740,normal,79
+Santos,Ho Chi Minh City,4,4,3621,fragile,87
+Santos,Kuala Lumpur,5,1,4248,normal,63
+Rio de Janeiro,Mumbai,4,1,8028,fragile,63
+Rio de Janeiro,Chennai,4,1,4779,fragile,63
+Rio de Janeiro,Kolkata,4,3,4761,fragile,79
+Rio de Janeiro,Delhi,4,5,3763,fragile,95
+Rio de Janeiro,Visakhapatnam,1,4,5510,normal,47
+Rio de Janeiro,Singapore,2,5,9977,fragile,75
+Rio de Janeiro,Shanghai,3,5,8527,normal,75
+Rio de Janeiro,Shenzhen,1,2,4601,normal,31
+Rio de Janeiro,Guangzhou,2,5,8727,normal,65
+Rio de Janeiro,Hong Kong,5,1,3605,fragile,73
+Rio de Janeiro,Tokyo,1,2,1288,fragile,41
+Rio de Janeiro,Osaka,4,5,6099,fragile,95
+Rio de Janeiro,Busan,3,3,10590,normal,59
+Rio de Janeiro,Bangkok,4,3,3753,normal,69
+Rio de Janeiro,Jakarta,1,4,1640,fragile,57
+Rio de Janeiro,Dubai,5,4,3458,fragile,97
+Rio de Janeiro,Doha,4,2,2649,normal,61
+Rio de Janeiro,Riyadh,5,2,7753,fragile,81
+Rio de Janeiro,Jeddah,5,2,7296,fragile,81
+Rio de Janeiro,Istanbul,5,1,10984,fragile,73
+Rio de Janeiro,Hamburg,2,5,7038,fragile,75
+Rio de Janeiro,Rotterdam,1,2,8242,fragile,41
+Rio de Janeiro,Antwerp,3,4,3120,normal,67
+Rio de Janeiro,London,4,1,9810,fragile,63
+Rio de Janeiro,Le Havre,4,3,3064,normal,69
+Rio de Janeiro,Barcelona,3,2,1872,normal,51
+Rio de Janeiro,Genoa,5,3,11695,fragile,89
+Rio de Janeiro,Athens,5,2,4140,fragile,81
+Rio de Janeiro,New York,4,2,1279,fragile,71
+Rio de Janeiro,Los Angeles,1,5,11304,fragile,65
+Rio de Janeiro,San Francisco,2,2,3224,normal,41
+Rio de Janeiro,Seattle,2,3,7945,normal,49
+Rio de Janeiro,Houston,5,1,11535,fragile,73
+Rio de Janeiro,Miami,5,2,5150,fragile,81
+Rio de Janeiro,Vancouver,1,1,5431,normal,23
+Rio de Janeiro,Toronto,3,1,1644,fragile,53
+Rio de Janeiro,Montreal,4,3,5956,fragile,79
+Rio de Janeiro,Sydney,3,3,9797,normal,59
+Rio de Janeiro,Melbourne,2,4,10524,fragile,67
+Rio de Janeiro,Auckland,3,2,1127,normal,51
+Rio de Janeiro,Cape Town,5,3,5273,fragile,89
+Rio de Janeiro,Durban,1,1,2681,normal,23
+Rio de Janeiro,Lagos,2,3,5069,fragile,59
+Rio de Janeiro,Nairobi,4,3,3170,normal,69
+Rio de Janeiro,Santos,2,1,5166,fragile,43
+Rio de Janeiro,Rio de Janeiro,4,1,1435,normal,53
+Rio de Janeiro,Buenos Aires,5,5,3421,fragile,105
+Rio de Janeiro,Lima,3,2,6625,normal,51
+Rio de Janeiro,Panama City,4,5,6834,fragile,95
+Rio de Janeiro,Manila,1,5,11059,fragile,65
+Rio de Janeiro,Ho Chi Minh City,4,3,8312,normal,69
+Rio de Janeiro,Kuala Lumpur,2,1,11412,fragile,43
+Buenos Aires,Mumbai,1,1,8109,fragile,33
+Buenos Aires,Chennai,4,3,2950,fragile,79
+Buenos Aires,Kolkata,4,3,6008,fragile,79
+Buenos Aires,Delhi,5,2,5894,fragile,81
+Buenos Aires,Visakhapatnam,3,4,6721,fragile,77
+Buenos Aires,Singapore,4,4,11879,normal,77
+Buenos Aires,Shanghai,2,5,5318,normal,65
+Buenos Aires,Shenzhen,3,2,4932,normal,51
+Buenos Aires,Guangzhou,1,5,7901,normal,55
+Buenos Aires,Hong Kong,2,2,5495,normal,41
+Buenos Aires,Tokyo,1,3,11708,normal,39
+Buenos Aires,Osaka,3,1,3750,fragile,53
+Buenos Aires,Busan,1,3,8778,fragile,49
+Buenos Aires,Bangkok,5,4,9699,fragile,97
+Buenos Aires,Jakarta,4,4,10183,normal,77
+Buenos Aires,Dubai,3,2,4141,normal,51
+Buenos Aires,Doha,3,3,9057,normal,59
+Buenos Aires,Riyadh,5,2,10378,fragile,81
+Buenos Aires,Jeddah,2,4,1058,fragile,67
+Buenos Aires,Istanbul,2,1,3191,normal,33
+Buenos Aires,Hamburg,2,5,7313,fragile,75
+Buenos Aires,Rotterdam,3,2,2084,fragile,61
+Buenos Aires,Antwerp,3,1,10820,normal,43
+Buenos Aires,London,5,1,8525,fragile,73
+Buenos Aires,Le Havre,5,3,6901,normal,79
+Buenos Aires,Barcelona,5,1,8096,normal,63
+Buenos Aires,Genoa,2,1,6230,normal,33
+Buenos Aires,Athens,1,3,3027,normal,39
+Buenos Aires,New York,1,3,6651,fragile,49
+Buenos Aires,Los Angeles,4,2,5360,fragile,71
+Buenos Aires,San Francisco,1,5,2900,fragile,65
+Buenos Aires,Seattle,3,5,7238,normal,75
+Buenos Aires,Houston,4,2,9150,fragile,71
+Buenos Aires,Miami,3,3,3259,fragile,69
+Buenos Aires,Vancouver,3,3,4636,normal,59
+Buenos Aires,Toronto,5,4,7352,fragile,97
+Buenos Aires,Montreal,4,4,8820,fragile,87
+Buenos Aires,Sydney,1,3,11253,normal,39
+Buenos Aires,Melbourne,3,2,5248,fragile,61
+Buenos Aires,Auckland,1,3,1157,fragile,49
+Buenos Aires,Cape Town,4,5,6342,normal,85
+Buenos Aires,Durban,1,5,7592,fragile,65
+Buenos Aires,Lagos,5,5,10499,normal,95
+Buenos Aires,Nairobi,2,4,6870,normal,57
+Buenos Aires,Santos,5,4,6943,fragile,97
+Buenos Aires,Rio de Janeiro,3,4,6009,normal,67
+Buenos Aires,Buenos Aires,4,5,10970,normal,85
+Buenos Aires,Lima,2,1,3037,fragile,43
+Buenos Aires,Panama City,4,2,6657,fragile,71
+Buenos Aires,Manila,1,4,11458,normal,47
+Buenos Aires,Ho Chi Minh City,3,2,3548,fragile,61
+Buenos Aires,Kuala Lumpur,3,1,6224,normal,43
+Lima,Mumbai,3,3,6067,normal,59
+Lima,Chennai,2,5,5005,normal,65
+Lima,Kolkata,2,3,11034,fragile,59
+Lima,Delhi,4,2,4455,fragile,71
+Lima,Visakhapatnam,1,5,6578,normal,55
+Lima,Singapore,3,1,8439,normal,43
+Lima,Shanghai,5,3,10526,normal,79
+Lima,Shenzhen,2,1,4901,normal,33
+Lima,Guangzhou,4,5,11915,normal,85
+Lima,Hong Kong,4,5,3091,normal,85
+Lima,Tokyo,5,1,6703,normal,63
+Lima,Osaka,5,4,10370,normal,87
+Lima,Busan,1,3,4214,normal,39
+Lima,Bangkok,4,4,4026,fragile,87
+Lima,Jakarta,3,3,9380,normal,59
+Lima,Dubai,5,1,9630,normal,63
+Lima,Doha,3,1,10578,normal,43
+Lima,Riyadh,1,1,3999,normal,23
+Lima,Jeddah,1,4,9288,fragile,57
+Lima,Istanbul,4,4,1032,normal,77
+Lima,Hamburg,4,2,4000,normal,61
+Lima,Rotterdam,3,1,9499,fragile,53
+Lima,Antwerp,3,1,1964,fragile,53
+Lima,London,5,2,5741,normal,71
+Lima,Le Havre,5,2,11671,normal,71
+Lima,Barcelona,1,5,8630,normal,55
+Lima,Genoa,1,1,5041,normal,23
+Lima,Athens,1,5,5044,fragile,65
+Lima,New York,4,5,4406,normal,85
+Lima,Los Angeles,3,3,9349,fragile,69
+Lima,San Francisco,4,4,3504,fragile,87
+Lima,Seattle,4,2,10439,normal,61
+Lima,Houston,3,2,10240,fragile,61
+Lima,Miami,5,5,4839,fragile,105
+Lima,Vancouver,2,4,7326,normal,57
+Lima,Toronto,2,1,7747,normal,33
+Lima,Montreal,4,5,4984,normal,85
+Lima,Sydney,4,3,11012,fragile,79
+Lima,Melbourne,3,2,4429,fragile,61
+Lima,Auckland,5,4,7807,fragile,97
+Lima,Cape Town,3,5,2104,normal,75
+Lima,Durban,4,4,5141,fragile,87
+Lima,Lagos,5,5,8437,fragile,105
+Lima,Nairobi,1,4,10682,fragile,57
+Lima,Santos,2,3,4032,normal,49
+Lima,Rio de Janeiro,4,5,2173,normal,85
+Lima,Buenos Aires,3,3,5650,fragile,69
+Lima,Lima,3,4,7400,fragile,77
+Lima,Panama City,1,5,9604,fragile,65
+Lima,Manila,4,5,8046,fragile,95
+Lima,Ho Chi Minh City,5,5,6105,normal,95
+Lima,Kuala Lumpur,1,3,9722,fragile,49
+Panama City,Mumbai,3,1,10798,fragile,53
+Panama City,Chennai,4,1,8263,normal,53
+Panama City,Kolkata,1,1,5488,normal,23
+Panama City,Delhi,3,1,2278,normal,43
+Panama City,Visakhapatnam,1,5,4438,normal,55
+Panama City,Singapore,1,5,9601,fragile,65
+Panama City,Shanghai,3,4,3008,normal,67
+Panama City,Shenzhen,2,3,1418,normal,49
+Panama City,Guangzhou,3,5,10994,fragile,85
+Panama City,Hong Kong,3,2,9829,normal,51
+Panama City,Tokyo,1,3,10162,normal,39
+Panama City,Osaka,5,2,10211,fragile,81
+Panama City,Busan,4,4,7700,fragile,87
+Panama City,Bangkok,1,2,4133,normal,31
+Panama City,Jakarta,1,1,1137,fragile,33
+Panama City,Dubai,5,3,8843,fragile,89
+Panama City,Doha,2,2,5924,fragile,51
+Panama City,Riyadh,1,3,5496,normal,39
+Panama City,Jeddah,2,4,8948,normal,57
+Panama City,Istanbul,5,4,9474,normal,87
+Panama City,Hamburg,3,1,8667,normal,43
+Panama City,Rotterdam,4,2,8799,fragile,71
+Panama City,Antwerp,1,1,6276,normal,23
+Panama City,London,4,5,8689,fragile,95
+Panama City,Le Havre,4,1,9305,fragile,63
+Panama City,Barcelona,1,5,2002,fragile,65
+Panama City,Genoa,5,4,6411,normal,87
+Panama City,Athens,2,3,5321,normal,49
+Panama City,New York,3,1,3362,fragile,53
+Panama City,Los Angeles,4,5,3452,fragile,95
+Panama City,San Francisco,3,3,3860,fragile,69
+Panama City,Seattle,5,4,6403,fragile,97
+Panama City,Houston,2,1,7818,normal,33
+Panama City,Miami,3,4,3962,fragile,77
+Panama City,Vancouver,5,2,8788,normal,71
+Panama City,Toronto,1,4,8035,fragile,57
+Panama City,Montreal,1,5,1647,fragile,65
+Panama City,Sydney,5,3,3137,fragile,89
+Panama City,Melbourne,2,3,6217,normal,49
+Panama City,Auckland,1,5,1641,fragile,65
+Panama City,Cape Town,3,4,4949,fragile,77
+Panama City,Durban,1,2,3440,normal,31
+Panama City,Lagos,2,5,2515,normal,65
+Panama City,Nairobi,5,1,6967,normal,63
+Panama City,Santos,3,4,4267,fragile,77
+Panama City,Rio de Janeiro,4,3,10235,normal,69
+Panama City,Buenos Aires,1,5,5906,fragile,65
+Panama City,Lima,1,1,5114,fragile,33
+Panama City,Panama City,4,2,9201,fragile,71
+Panama City,Manila,3,2,9168,normal,51
+Panama City,Ho Chi Minh City,4,3,11718,fragile,79
+Panama City,Kuala Lumpur,5,4,10398,fragile,97
+Manila,Mumbai,3,2,2945,fragile,61
+Manila,Chennai,2,5,3949,normal,65
+Manila,Kolkata,3,1,6138,normal,43
+Manila,Delhi,3,2,11958,fragile,61
+Manila,Visakhapatnam,3,3,3668,normal,59
+Manila,Singapore,1,3,1625,normal,39
+Manila,Shanghai,5,4,5787,normal,87
+Manila,Shenzhen,1,3,8284,fragile,49
+Manila,Guangzhou,4,1,5682,normal,53
+Manila,Hong Kong,5,3,5455,fragile,89
+Manila,Tokyo,3,5,1546,fragile,85
+Manila,Osaka,2,5,8559,normal,65
+Manila,Busan,2,1,2693,fragile,43
+Manila,Bangkok,2,5,5410,fragile,75
+Manila,Jakarta,4,2,10288,fragile,71
+Manila,Dubai,2,3,7262,normal,49
+Manila,Doha,1,1,2398,fragile,33
+Manila,Riyadh,3,1,1354,fragile,53
+Manila,Jeddah,2,2,6277,fragile,51
+Manila,Istanbul,1,3,2154,fragile,49
+Manila,Hamburg,2,4,1838,fragile,67
+Manila,Rotterdam,1,2,11450,fragile,41
+Manila,Antwerp,4,2,10328,normal,61
+Manila,London,3,2,6707,fragile,61
+Manila,Le Havre,1,1,10965,fragile,33
+Manila,Barcelona,4,5,9025,normal,85
+Manila,Genoa,2,5,5332,fragile,75
+Manila,Athens,3,3,11011,normal,59
+Manila,New York,1,2,5701,normal,31
+Manila,Los Angeles,5,5,7592,fragile,105
+Manila,San Francisco,2,4,2207,normal,57
+Manila,Seattle,4,5,5314,normal,85
+Manila,Houston,5,4,2627,fragile,97
+Manila,Miami,1,4,1243,fragile,57
+Manila,Vancouver,2,1,9258,normal,33
+Manila,Toronto,4,2,4221,fragile,71
+Manila,Montreal,2,4,8379,normal,57
+Manila,Sydney,2,1,4269,normal,33
+Manila,Melbourne,4,2,1936,normal,61
+Manila,Auckland,5,1,8387,normal,63
+Manila,Cape Town,5,5,8808,fragile,105
+Manila,Durban,1,5,7350,fragile,65
+Manila,Lagos,1,2,5319,normal,31
+Manila,Nairobi,5,5,1819,fragile,105
+Manila,Santos,1,3,2327,normal,39
+Manila,Rio de Janeiro,1,5,5653,fragile,65
+Manila,Buenos Aires,4,1,4871,fragile,63
+Manila,Lima,5,4,4953,fragile,97
+Manila,Panama City,1,4,8358,normal,47
+Manila,Manila,1,3,6268,normal,39
+Manila,Ho Chi Minh City,2,2,2666,normal,41
+Manila,Kuala Lumpur,5,1,1475,normal,63
+Ho Chi Minh City,Mumbai,2,1,5200,fragile,43
+Ho Chi Minh City,Chennai,2,1,3357,normal,33
+Ho Chi Minh City,Kolkata,1,2,7196,fragile,41
+Ho Chi Minh City,Delhi,2,1,5935,fragile,43
+Ho Chi Minh City,Visakhapatnam,5,1,7331,normal,63
+Ho Chi Minh City,Singapore,2,4,11882,fragile,67
+Ho Chi Minh City,Shanghai,4,3,7642,normal,69
+Ho Chi Minh City,Shenzhen,3,4,9241,fragile,77
+Ho Chi Minh City,Guangzhou,1,2,2401,fragile,41
+Ho Chi Minh City,Hong Kong,1,1,1075,fragile,33
+Ho Chi Minh City,Tokyo,5,2,9475,normal,71
+Ho Chi Minh City,Osaka,1,1,8601,normal,23
+Ho Chi Minh City,Busan,5,1,9577,fragile,73
+Ho Chi Minh City,Bangkok,3,2,3419,fragile,61
+Ho Chi Minh City,Jakarta,1,1,9543,fragile,33
+Ho Chi Minh City,Dubai,1,2,5640,normal,31
+Ho Chi Minh City,Doha,4,4,1690,fragile,87
+Ho Chi Minh City,Riyadh,1,2,3211,normal,31
+Ho Chi Minh City,Jeddah,1,1,3383,fragile,33
+Ho Chi Minh City,Istanbul,1,3,11723,fragile,49
+Ho Chi Minh City,Hamburg,1,5,4959,normal,55
+Ho Chi Minh City,Rotterdam,3,1,3612,normal,43
+Ho Chi Minh City,Antwerp,1,3,4775,normal,39
+Ho Chi Minh City,London,2,3,9144,fragile,59
+Ho Chi Minh City,Le Havre,3,4,3153,fragile,77
+Ho Chi Minh City,Barcelona,4,4,5757,fragile,87
+Ho Chi Minh City,Genoa,3,2,9329,fragile,61
+Ho Chi Minh City,Athens,2,3,9696,fragile,59
+Ho Chi Minh City,New York,4,5,4343,normal,85
+Ho Chi Minh City,Los Angeles,1,4,2163,fragile,57
+Ho Chi Minh City,San Francisco,1,1,8643,fragile,33
+Ho Chi Minh City,Seattle,3,1,5601,fragile,53
+Ho Chi Minh City,Houston,1,3,3116,fragile,49
+Ho Chi Minh City,Miami,5,5,8506,normal,95
+Ho Chi Minh City,Vancouver,1,3,10078,fragile,49
+Ho Chi Minh City,Toronto,3,2,3335,fragile,61
+Ho Chi Minh City,Montreal,5,3,7421,normal,79
+Ho Chi Minh City,Sydney,5,4,2873,normal,87
+Ho Chi Minh City,Melbourne,4,2,5996,fragile,71
+Ho Chi Minh City,Auckland,3,3,9997,fragile,69
+Ho Chi Minh City,Cape Town,4,4,5511,normal,77
+Ho Chi Minh City,Durban,2,1,10598,normal,33
+Ho Chi Minh City,Lagos,1,2,8390,normal,31
+Ho Chi Minh City,Nairobi,5,5,3201,fragile,105
+Ho Chi Minh City,Santos,1,5,3382,normal,55
+Ho Chi Minh City,Rio de Janeiro,3,5,3652,normal,75
+Ho Chi Minh City,Buenos Aires,5,2,11459,fragile,81
+Ho Chi Minh City,Lima,5,5,7205,fragile,105
+Ho Chi Minh City,Panama City,4,1,5852,normal,53
+Ho Chi Minh City,Manila,2,1,1204,fragile,43
+Ho Chi Minh City,Ho Chi Minh City,1,1,11389,fragile,33
+Ho Chi Minh City,Kuala Lumpur,3,4,10891,normal,67
+Kuala Lumpur,Mumbai,5,3,3250,fragile,89
+Kuala Lumpur,Chennai,3,3,4393,fragile,69
+Kuala Lumpur,Kolkata,3,1,8632,fragile,53
+Kuala Lumpur,Delhi,2,5,4283,fragile,75
+Kuala Lumpur,Visakhapatnam,3,5,3645,fragile,85
+Kuala Lumpur,Singapore,4,5,11215,normal,85
+Kuala Lumpur,Shanghai,5,3,9735,normal,79
+Kuala Lumpur,Shenzhen,4,3,4108,normal,69
+Kuala Lumpur,Guangzhou,4,5,4621,fragile,95
+Kuala Lumpur,Hong Kong,3,1,3561,fragile,53
+Kuala Lumpur,Tokyo,4,2,7993,fragile,71
+Kuala Lumpur,Osaka,1,5,6429,fragile,65
+Kuala Lumpur,Busan,1,1,9804,fragile,33
+Kuala Lumpur,Bangkok,3,3,3719,fragile,69
+Kuala Lumpur,Jakarta,1,2,11417,fragile,41
+Kuala Lumpur,Dubai,2,1,10029,fragile,43
+Kuala Lumpur,Doha,3,5,11553,normal,75
+Kuala Lumpur,Riyadh,5,3,8976,fragile,89
+Kuala Lumpur,Jeddah,5,4,1147,normal,87
+Kuala Lumpur,Istanbul,4,3,3110,normal,69
+Kuala Lumpur,Hamburg,5,5,9547,normal,95
+Kuala Lumpur,Rotterdam,4,1,6018,fragile,63
+Kuala Lumpur,Antwerp,2,1,2584,normal,33
+Kuala Lumpur,London,4,1,3089,normal,53
+Kuala Lumpur,Le Havre,4,3,5029,fragile,79
+Kuala Lumpur,Barcelona,4,5,2447,normal,85
+Kuala Lumpur,Genoa,3,2,1375,normal,51
+Kuala Lumpur,Athens,3,4,3086,fragile,77
+Kuala Lumpur,New York,2,5,7586,fragile,75
+Kuala Lumpur,Los Angeles,2,2,5411,fragile,51
+Kuala Lumpur,San Francisco,5,2,1346,normal,71
+Kuala Lumpur,Seattle,5,5,8525,normal,95
+Kuala Lumpur,Houston,2,3,6359,fragile,59
+Kuala Lumpur,Miami,4,3,9420,fragile,79
+Kuala Lumpur,Vancouver,4,2,9311,normal,61
+Kuala Lumpur,Toronto,1,4,9272,fragile,57
+Kuala Lumpur,Montreal,5,2,6143,normal,71
+Kuala Lumpur,Sydney,3,3,2622,fragile,69
+Kuala Lumpur,Melbourne,5,5,8852,fragile,105
+Kuala Lumpur,Auckland,2,2,3322,normal,41
+Kuala Lumpur,Cape Town,4,1,8216,normal,53
+Kuala Lumpur,Durban,2,4,9678,fragile,67
+Kuala Lumpur,Lagos,5,1,6053,fragile,73
+Kuala Lumpur,Nairobi,2,5,3878,fragile,75
+Kuala Lumpur,Santos,1,2,6987,normal,31
+Kuala Lumpur,Rio de Janeiro,4,2,2446,fragile,71
+Kuala Lumpur,Buenos Aires,1,2,7948,fragile,41
+Kuala Lumpur,Lima,5,4,6924,fragile,97
+Kuala Lumpur,Panama City,3,5,11911,normal,75
+Kuala Lumpur,Manila,2,5,1321,normal,65
+Kuala Lumpur,Ho Chi Minh City,4,1,7830,normal,53
+Kuala Lumpur,Kuala Lumpur,5,4,3602,fragile,97
