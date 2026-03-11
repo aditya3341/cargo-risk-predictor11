@@ -31,7 +31,7 @@ const submit=async()=>{
 
 try{
 
-const res=await axios.post("https://cargo-risk-predictor-3.onrender.com",{
+const res=await axios.post("https://cargo-risk-predictor-3.onrender.com/predict",{
 source,
 destination,
 weather,
